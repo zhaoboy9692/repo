@@ -1,0 +1,32 @@
+Package: com.zxc.longlife
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm64
+Maintainer: zxc
+Installed-Size: 216
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.zxc.longlife_0.0.1-1+debug_iphoneos-arm64.deb
+Size: 4756
+MD5sum: 8994debc658d32839b7bfbfd3982bf61
+SHA1: 241d97f85538bf65a9c5a117a9c23782c4b69970
+SHA256: ce8ef54932a66240d047a5933d029e422d0161b7e264dff802c3cc3ddd552e9e
+Section: Tweaks
+Description: 建行生活屏蔽越狱检测和抓包检测
+Author: zxc
+Name: 建行生活屏蔽越狱抓包检测
+
+Package: me.chichou.webinspect-global
+Version: 0.2.0-1+debug
+Architecture: iphoneos-arm64
+Maintainer: codecolorist
+Installed-Size: 216
+Depends: mobilesubstrate
+Filename: ./debs/me.chichou.webinspect-global_0.2.0-1+debug_iphoneos-arm64.deb
+Size: 6430
+MD5sum: 9dc29cb310e65303895dc5b89141e921
+SHA1: 24a0bffa07805ce705bc08d512dd673c78336647
+SHA256: 4c762c3d9ba729788778f5938831ed2edee6156bc6db8cfe16aac06741b59077
+Section: Tweaks
+Description: Enable webview remote inspect for every app
+Author: codecolorist
+Name: webinspect
+
