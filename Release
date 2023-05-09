@@ -1,9 +1,9 @@
 Origin: 小白技术社的软件源
-Label: Tccpg
+Label: 小白技术社的软件源
 Suite: stable
 Version: 1.7
-Codename: Tccpg
-Architectures: iphoneos-arm
+Codename: 小白技术社的软件源
+Architectures: iphoneos-arm64e
 Components: main
 Description: 小白技术社的软件源
 
