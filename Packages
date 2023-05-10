@@ -1,48 +1,16 @@
-Package: com.zxc.longlife
-Version: 0.0.4-1
-Architecture: iphoneos-arm64
-Maintainer: zxc
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.zxc.longlife_0.0.4-1_iphoneos-arm64.deb
-Size: 3018
-MD5sum: dad88ffa7bd8624195887eab45431844
-SHA1: 37579521d15d43a717212f04fea8c1eb7981545b
-SHA256: cc5e2d9be594d20476536c0fa25ea5cdad312a2c5d03b74e2ff1233df0786127
-Section: Tweaks
-Description: 建行生活屏蔽越狱检测和抓包检测，其他插件微信关注《小白技术社》获取
-Author: zxc
-Name: 建行生活屏蔽越狱抓包检测
-
 Package: com.zxc.awemeproxybypass
-Version: 0.0.4-2
+Version: 0.0.4-3
 Architecture: iphoneos-arm
 Maintainer: zxc
 Installed-Size: 216
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./爬虫逆向/com.zxc.awemeproxybypass_0.0.4-2_iphoneos-arm.deb
+Filename: ./debs/com.zxc.awemeproxybypass_0.0.4-3_iphoneos-arm.deb
 Size: 4234
-MD5sum: ef252d6ba888901f23d8944d22c6f014
-SHA1: f14bebe8f136be4ff55d09edb28174c0a47c40ef
-SHA256: ca5697c3cbdf987bd7fd3754a31a36534a6b0f9f4de6153a34e59fa87121e63c
+MD5sum: 02a39edf6e2c5f1ccd3ab142df3b5c90
+SHA1: c692338a17646a1ead18b8a3dd9b4633ee9a85dc
+SHA256: fb017de125e810623e64bbfc67160f74fd0dc27f56201750f448a9d93e5f9065
 Section: Tweaks
 Description: 抖音全版本抓包插件，其他插件微信关注《小白技术社》获取
 Author: zxc
 Name: 抖音抓包ByPass
-
-Package: com.zxc.webviewdebug
-Version: 0.2.4-2
-Architecture: iphoneos-arm64
-Maintainer: codecolorist
-Installed-Size: 88
-Depends: mobilesubstrate
-Filename: ./爬虫逆向/com.zxc.webviewdebug_0.2.4-2_iphoneos-arm64.deb
-Size: 3440
-MD5sum: 9145e5a62531d0410c6035747b94943d
-SHA1: ca6b7ad766b3dba5fc52fc12d11205564c317055
-SHA256: 726db95bbfa93a80c69ab4661b23c4b59eea9315bb405d6077cadb8a52fe6050
-Section: Tweaks
-Description: 开启webview的debug开关，用来调试app内的h5，包含小程序
-Author: codecolorist
-Name: WebViewDebug
 
