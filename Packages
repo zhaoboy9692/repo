@@ -1,3 +1,35 @@
+Package: com.zxc.awemelitebypass
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Maintainer: zxc
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.zxc.awemelitebypass_0.0.1-1_iphoneos-arm.deb
+Size: 3002
+MD5sum: 4f2966e7f95ffe165176196867d3856c
+SHA1: 830660521e2ac4e5379047927e7828f8845f318b
+SHA256: 3d36097702a800af51b70de6b8f3ab90649f93cb067138b31a261a821dbe46f4
+Section: Tweaks
+Description: 抖音极速版抓包bypass,更多插件微信关注《小白技术社》获取
+Author: zxc
+Name: 抖音极速版抓包bypass
+
+Package: com.zxc.awemelitebypass-rootless
+Version: 0.0.1-1
+Architecture: iphoneos-arm64
+Maintainer: zxc
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.zxc.awemelitebypass-rootless_0.0.1-1_iphoneos-arm64.deb
+Size: 3040
+MD5sum: ebe79a1fbd6ee28407b7a21527714c87
+SHA1: cf5242ae8d55ea5f6dd1338cd61ee40d21389681
+SHA256: 1377dbb315dc4049d398426df0965a5be11d93dcfdce60b1d9236acf5bdf3c0a
+Section: Tweaks
+Description: 抖音极速版抓包bypass,更多插件微信关注《小白技术社》获取
+Author: zxc
+Name: 抖音极速版抓包bypass-rootless
+
 Package: com.zxc.awemeproxybypass
 Version: 0.0.5-4
 Architecture: iphoneos-arm
@@ -29,6 +61,38 @@ Section: Tweaks
 Description: 抖音全版本抓包插件，其他插件微信关注《小白技术社》获取
 Author: zxc
 Name: 抖音抓包ByPass-rootless
+
+Package: com.zxc.gifkuashoubypass
+Version: 0.0.1-3
+Architecture: iphoneos-arm
+Maintainer: zxc
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.zxc.gifkuashoubypass_0.0.1-3_iphoneos-arm.deb
+Size: 3014
+MD5sum: 68392d496e856ce23d6d6816e4704e2a
+SHA1: ade77f66e250b5be2d1278410fdccf738335d7c7
+SHA256: 91e71435e3aa658f59335c2653e97294f1da77f8ce7f2178f58ba93852b3b0b9
+Section: Tweaks
+Description: 协助抓快手数据包，有问题可以关注微信公众号《小白技术社》，仅用于学习交流使用
+Author: zxc
+Name: 快手抓包bypass
+
+Package: com.zxc.gifkuashoubypass-rootless
+Version: 0.0.1-7
+Architecture: iphoneos-arm64
+Maintainer: zxc
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.zxc.gifkuashoubypass-rootless_0.0.1-7_iphoneos-arm64.deb
+Size: 3060
+MD5sum: 66fabc22ed9538cc914e83b5ad033370
+SHA1: 070d7bfb45cbe49c2e4a85714bbf2ebb01eeb7bc
+SHA256: 3b56351d700e5508e0236fbd854c48568504a4433dc8dc2de62792fd4dc5d397
+Section: Tweaks
+Description: 协助抓快手数据包，有问题可以关注微信公众号《小白技术社》，仅用于学习交流使用
+Author: zxc
+Name: 快手抓包bypass-rootless
 
 Package: com.zxc.longlife
 Version: 0.0.5-2
@@ -63,32 +127,32 @@ Author: zxc
 Name: 建行生活屏蔽越狱抓包检测-rootless
 
 Package: com.zxc.mixbypass
-Version: 0.0.1-3
+Version: 0.0.1-5
 Architecture: iphoneos-arm
 Maintainer: zxc
 Installed-Size: 216
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.zxc.mixbypass_0.0.1-3_iphoneos-arm.deb
-Size: 4724
-MD5sum: 69b3a7b077bca8d6093376bc2bf5116d
-SHA1: 017f07103736d2102c6b2203eada48dc2b9c786f
-SHA256: 767e3293aa6f1c47f52a82264f99fe655aae1f7fdc62d7583f2bbacb38cbef72
+Filename: ./debs/com.zxc.mixbypass_0.0.1-5_iphoneos-arm.deb
+Size: 4708
+MD5sum: f5ace4e94107c3e0d338a93c51aec848
+SHA1: 14de63ef30768c6911633c919fca47edb5b4b0dc
+SHA256: b1449ddabfa53277e4febbe9d5e05f72133e382209aa74d0818333cbfe7f2421
 Section: Tweaks
 Description: Mix滤镜大师Vip破解,其他插件微信关注《小白技术社》获取
 Author: zxc
 Name: Mix滤镜大师VipBypass
 
 Package: com.zxc.mixbypass-rootless
-Version: 0.0.1-1
+Version: 0.0.1-2
 Architecture: iphoneos-arm64
 Maintainer: zxc
 Installed-Size: 216
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.zxc.mixbypass-rootless_0.0.1-1_iphoneos-arm64.deb
-Size: 4752
-MD5sum: 1682816d0e30072587aedd96ea6e2329
-SHA1: e5e1e3456b95ed1db3fd5642629e912611cf71be
-SHA256: 8af590bd9c45ebefac67341d77cfbba08384c5bc41a44d511419a7720ebd3730
+Filename: ./debs/com.zxc.mixbypass-rootless_0.0.1-2_iphoneos-arm64.deb
+Size: 4746
+MD5sum: 056ce4852ed388bc83ed98f893e6361c
+SHA1: c03bdfc5d639ed94c0f2a3a67ea64c399ef9a0ee
+SHA256: b057de4f5ddea5f08ddbb6685b33a83b6b83e86ae9f9692196da0c03768951e0
 Section: Tweaks
 Description: Mix滤镜大师Vip破解,其他插件微信关注《小白技术社》获取
 Author: zxc
@@ -157,4 +221,36 @@ Section: Tweaks
 Description: 开启webview的debug开关，用来调试app内的h5，包含小程序
 Author: codecolorist
 Name: WebViewDebug-rootless
+
+Package: com.zxc.xunmengpdd
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Maintainer: zxc
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.zxc.xunmengpdd_0.0.1-1_iphoneos-arm.deb
+Size: 3100
+MD5sum: ce37e02b47010154cbb6379902565ad3
+SHA1: b95a7a64dda2eb8a6c95b7fe9c4894e6cea63366
+SHA256: 02430e68cb0e7c54ba289e0a33906379b699464c074990959f0041e7a044fd9f
+Section: Tweaks
+Description: 协助抓拼多多的数据包,更多插件微信关注《小白技术社》获取
+Author: zxc
+Name: 拼多多bypass
+
+Package: com.zxc.xunmengpddbypass-rootless
+Version: 0.0.1-1
+Architecture: iphoneos-arm64
+Maintainer: zxc
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.zxc.xunmengpddbypass-rootless_0.0.1-1_iphoneos-arm64.deb
+Size: 3164
+MD5sum: 9db85a8b0a6796b7843e1239fef1d58f
+SHA1: 4bcd2d51d4423c5d0d70de5d5e2c286a4124a582
+SHA256: 8e6cbd8f7742b218dd394cafd1765deed03029b7dd52b370b1df27212da4546d
+Section: Tweaks
+Description: 协助抓拼多多的数据包,更多插件微信关注《小白技术社》获取
+Author: zxc
+Name: 拼多多bypass-rootless
 
