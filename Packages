@@ -14,6 +14,22 @@ Description: 抖音极速版抓包bypass,更多插件微信关注《小白技术
 Author: zxc
 Name: 抖音极速版抓包bypass
 
+Package: com.zxc.awemelitebypass
+Version: 0.0.2-1
+Architecture: iphoneos-arm
+Maintainer: zxc
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.zxc.awemelitebypass_0.0.2-1_iphoneos-arm.deb
+Size: 3110
+MD5sum: 38b7dea2ce47fe7278fdb16e1a98d67e
+SHA1: 625330c1e95677b80171c1ddbac665f89c1afc1f
+SHA256: 52edcef62c25108a2a8c6594b726edd556935582f26f42d3015ba7de10474f7b
+Section: Tweaks
+Description: 抖音极速版抓包bypass,更多插件微信关注《小白技术社》获取
+Author: zxc
+Name: 抖音极速版抓包bypass
+
 Package: com.zxc.awemelitebypass-rootless
 Version: 0.0.1-1
 Architecture: iphoneos-arm64
@@ -25,6 +41,22 @@ Size: 3040
 MD5sum: ebe79a1fbd6ee28407b7a21527714c87
 SHA1: cf5242ae8d55ea5f6dd1338cd61ee40d21389681
 SHA256: 1377dbb315dc4049d398426df0965a5be11d93dcfdce60b1d9236acf5bdf3c0a
+Section: Tweaks
+Description: 抖音极速版抓包bypass,更多插件微信关注《小白技术社》获取
+Author: zxc
+Name: 抖音极速版抓包bypass-rootless
+
+Package: com.zxc.awemelitebypass-rootless
+Version: 0.0.2-1
+Architecture: iphoneos-arm64
+Maintainer: zxc
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.zxc.awemelitebypass-rootless_0.0.2-1_iphoneos-arm64.deb
+Size: 3140
+MD5sum: 06150f66a08ca50a5bccefce4a4e5bfe
+SHA1: 8f4b024c7006578b8726bb277c0f1956864d842f
+SHA256: a3291e823df7651e822671aeedff1b5e92931f72a5a9be7276c19065f744ede8
 Section: Tweaks
 Description: 抖音极速版抓包bypass,更多插件微信关注《小白技术社》获取
 Author: zxc
