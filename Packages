@@ -174,6 +174,22 @@ Description: Mix滤镜大师Vip破解,其他插件微信关注《小白技术社
 Author: zxc
 Name: Mix滤镜大师VipBypass
 
+Package: com.zxc.mixbypass
+Version: 0.0.2-1
+Architecture: iphoneos-arm
+Maintainer: zxc
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.zxc.mixbypass_0.0.2-1_iphoneos-arm.deb
+Size: 3482
+MD5sum: d46cb1c7e7521687224cfa91556fcf22
+SHA1: 2c0fdc2b354aa817d93bc32af0036db48683a0ad
+SHA256: cd944e61d3a81e4d99cafdc3c83f41608bf9547b653c92d1427e82d8bd94f413
+Section: Tweaks
+Description: Mix滤镜大师Vip破解,更多插件微信关注《小白技术社》获取
+Author: zxc
+Name: Mix滤镜大师VipBypass
+
 Package: com.zxc.mixbypass-rootless
 Version: 0.0.1-2
 Architecture: iphoneos-arm64
@@ -187,6 +203,22 @@ SHA1: c03bdfc5d639ed94c0f2a3a67ea64c399ef9a0ee
 SHA256: b057de4f5ddea5f08ddbb6685b33a83b6b83e86ae9f9692196da0c03768951e0
 Section: Tweaks
 Description: Mix滤镜大师Vip破解,其他插件微信关注《小白技术社》获取
+Author: zxc
+Name: Mix滤镜大师VipBypass-rootless
+
+Package: com.zxc.mixbypass-rootless
+Version: 0.0.2-2
+Architecture: iphoneos-arm64
+Maintainer: zxc
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.zxc.mixbypass-rootless_0.0.2-2_iphoneos-arm64.deb
+Size: 3518
+MD5sum: 32b770df568d6fe3c97a2a24cd3fe332
+SHA1: 8f3afb470924b772ea902b591dc77651e3b25f27
+SHA256: db81b3cdfb0dfa529a0a4fe6223d5f26a7eaf23131cd085d156c51073de6fa5c
+Section: Tweaks
+Description: Mix滤镜大师Vip破解,更多插件微信关注《小白技术社》获取
 Author: zxc
 Name: Mix滤镜大师VipBypass-rootless
 
