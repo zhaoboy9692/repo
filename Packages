@@ -1,32 +1,32 @@
 Package: com.zxc.awemeproxybypass
-Version: 0.0.5-1
-Architecture: iphoneos-arm64
-Maintainer: zxc
-Installed-Size: 216
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.zxc.awemeproxybypass_0.0.5-rootless_iphoneos-arm64.deb
-Size: 4268
-MD5sum: bf6987d494eb0923bc190fb3fd423cac
-SHA1: 074ed5ba91996687bf6fca6dcdce94344e39159f
-SHA256: 843073e698af6cb343fb60553e11580a0b36072c2e1d0fdd4cc17a6c47d9dd17
-Section: Tweaks
-Description: 抖音全版本抓包插件，其他插件微信关注《小白技术社》获取
-Author: zxc
-Name: 抖音抓包ByPass-rootless
-
-Package: com.zxc.awemeproxybypass
-Version: 0.0.5-2
+Version: 0.0.5-3
 Architecture: iphoneos-arm
 Maintainer: zxc
 Installed-Size: 216
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.zxc.awemeproxybypass_0.0.5_iphoneos-arm.deb
-Size: 4234
-MD5sum: 2ff9447208c0c008803a916d05d6db36
-SHA1: 50ee1c37a738a2931f8ddfd1cfdd15c480abecf6
-SHA256: f0270e3d79c236a611c7e8bcc0f82907f1ce0138758aff14e952f7270a413571
+Filename: ./debs/com.zxc.awemeproxybypass_0.0.5-3_iphoneos-arm.deb
+Size: 4238
+MD5sum: c5e1a0ce9d4536422199830ffb735af9
+SHA1: 40737e85a51ca0dc8148180f0109585bf1849207
+SHA256: 1c7d8030c423652ab6163cbac0fc2e41180d57589adde4d442a2f6967aa17729
 Section: Tweaks
 Description: 抖音全版本抓包插件，其他插件微信关注《小白技术社》获取
 Author: zxc
 Name: 抖音抓包ByPass
+
+Package: com.zxc.awemeproxybypass-rootless
+Version: 0.0.5-1
+Architecture: iphoneos-arm
+Maintainer: zxc
+Installed-Size: 216
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.zxc.awemeproxybypass-rootless_0.0.5-1_iphoneos-arm.deb
+Size: 4240
+MD5sum: 746c076223ff546525a2e98504870201
+SHA1: d02fe72cf73547a33416aac799691406714e7d61
+SHA256: 26e031524b35b7d6161f54c00e6b3c2a2c6c7ffb2046ec0028cc8bfbf32d38cd
+Section: Tweaks
+Description: 抖音全版本抓包插件，其他插件微信关注《小白技术社》获取
+Author: zxc
+Name: 抖音抓包ByPass-rootless
 
