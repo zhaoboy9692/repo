@@ -1,32 +1,96 @@
 Package: com.zxc.awemeproxybypass
-Version: 0.0.5-3
+Version: 0.0.5-4
 Architecture: iphoneos-arm
 Maintainer: zxc
 Installed-Size: 216
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.zxc.awemeproxybypass_0.0.5-3_iphoneos-arm.deb
-Size: 4238
-MD5sum: c5e1a0ce9d4536422199830ffb735af9
-SHA1: 40737e85a51ca0dc8148180f0109585bf1849207
-SHA256: 1c7d8030c423652ab6163cbac0fc2e41180d57589adde4d442a2f6967aa17729
+Filename: ./debs/com.zxc.awemeproxybypass_0.0.5-4_iphoneos-arm.deb
+Size: 4234
+MD5sum: 4e84d855fa19df52418fb7a2b75ae702
+SHA1: 472aa410659a3b9408779fc2f7df6b854654c20e
+SHA256: fde0489020c66f4e785e672af75801a4ad0ff6397ac0ad7576088281def51510
 Section: Tweaks
 Description: 抖音全版本抓包插件，其他插件微信关注《小白技术社》获取
 Author: zxc
 Name: 抖音抓包ByPass
 
 Package: com.zxc.awemeproxybypass-rootless
-Version: 0.0.5-1
-Architecture: iphoneos-arm
+Version: 0.0.5-2
+Architecture: iphoneos-arm64
 Maintainer: zxc
 Installed-Size: 216
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.zxc.awemeproxybypass-rootless_0.0.5-1_iphoneos-arm.deb
-Size: 4240
-MD5sum: 746c076223ff546525a2e98504870201
-SHA1: d02fe72cf73547a33416aac799691406714e7d61
-SHA256: 26e031524b35b7d6161f54c00e6b3c2a2c6c7ffb2046ec0028cc8bfbf32d38cd
+Filename: ./debs/com.zxc.awemeproxybypass-rootless_0.0.5-2_iphoneos-arm64.deb
+Size: 4270
+MD5sum: 026511b0f6101a21230de6c1b1faf59f
+SHA1: 40f9980815b7ac42c3b65f6f7386665db6a34448
+SHA256: d12b162c75a4d2907ccd04027f54d9d5ded7c2d2a91a8fa19dfccec8409679ba
 Section: Tweaks
 Description: 抖音全版本抓包插件，其他插件微信关注《小白技术社》获取
 Author: zxc
 Name: 抖音抓包ByPass-rootless
+
+Package: com.zxc.longlife
+Version: 0.0.5-2
+Architecture: iphoneos-arm
+Maintainer: zxc
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.zxc.longlife_0.0.5-2_iphoneos-arm.deb
+Size: 3020
+MD5sum: d20744aa8225aeb232aa232d449fd5c4
+SHA1: 4a2ff24e3668fed7091f07a0be9b19599b1a6e40
+SHA256: 94bc67b1e65529e1c6118ff7de8ef02ea2f0650863e6eed90ed87cc276db3d33
+Section: Tweaks
+Description: 建行生活屏蔽越狱检测和抓包检测，其他插件微信关注《小白技术社》获取
+Author: zxc
+Name: 建行生活屏蔽越狱抓包检测
+
+Package: com.zxc.longlife-rootless
+Version: 0.0.5-3
+Architecture: iphoneos-arm64
+Maintainer: zxc
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.zxc.longlife-rootless_0.0.5-3_iphoneos-arm64.deb
+Size: 3048
+MD5sum: 337a122cea749748b343b9e594e66d31
+SHA1: e4ffac2b28deca5a8554c9cf61c439620246f480
+SHA256: 53d89d58e7f3d8909120282bee6798a68335593c992840953726bf665664ef1c
+Section: Tweaks
+Description: 建行生活屏蔽越狱检测和抓包检测，其他插件微信关注《小白技术社》获取
+Author: zxc
+Name: 建行生活屏蔽越狱抓包检测-rootless
+
+Package: com.zxc.webviewdebug
+Version: 0.2.4-3
+Architecture: iphoneos-arm64
+Maintainer: codecolorist
+Installed-Size: 88
+Depends: mobilesubstrate
+Filename: ./debs/com.zxc.webviewdebug_0.2.4-3_iphoneos-arm64.deb
+Size: 3436
+MD5sum: 78f0dac2be63c3463a7d5574aeac3759
+SHA1: f79721e72fdfb8200ad938a493c4bba32d06d944
+SHA256: e8e701a652dc9cc2ae5ccebce9434e3d51188066e411a307c773240bff39286d
+Section: Tweaks
+Description: 开启webview的debug开关，用来调试app内的h5，包含小程序
+Author: codecolorist
+Name: WebViewDebug
+
+Package: com.zxc.webviewdebug-rootless
+Version: 0.2.4-2
+Architecture: iphoneos-arm64
+Maintainer: codecolorist
+Installed-Size: 88
+Depends: mobilesubstrate
+Filename: ./debs/com.zxc.webviewdebug-rootless_0.2.4-2_iphoneos-arm64.deb
+Size: 3472
+MD5sum: fd7cff98c4196973d05615a115ed76e8
+SHA1: 461691a8ce0122ddbdb72002ee8e8b7c2ba1377b
+SHA256: 5d49acdbf40d9f0d181d3d74eac0aab5d23271cd25ac6830ee33a21832cab022
+Section: Tweaks
+Description: 开启webview的debug开关，用来调试app内的h5，包含小程序
+Author: codecolorist
+Name: WebViewDebug-rootless
 
