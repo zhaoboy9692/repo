@@ -1,3 +1,19 @@
+Package: com.nablac0d3.sslkillswitch2
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Alban Diquet <nabla.c0d3@gmail.com>
+Installed-Size: 160
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.nablac0d3.sslkillswitch2_1.0_iphoneos-arm.deb
+Size: 10086
+MD5sum: b55719016368ecfeeda3db554fd13667
+SHA1: f9584feac01174015f7d6706acbd1d0e8d5957a0
+SHA256: f88cefa26876505c0429fa595c40e3e1a1e5b2562854bb8e0e4c0c73a0a323b8
+Section: Tweaks
+Description: Blackbox tool to disable SSL certificate validation - including certificate pinning - within iOS and OS X Apps.
+Author: Alban Diquet <nabla.c0d3@gmail.com>
+Name: SSL Kill Switch 2
+
 Package: com.zxc.awemelitebypass
 Version: 0.0.1-1
 Architecture: iphoneos-arm
