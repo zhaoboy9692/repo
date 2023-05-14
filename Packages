@@ -334,3 +334,21 @@ Description: 协助抓拼多多的数据包,更多插件微信关注《小白技
 Author: zxc
 Name: 拼多多bypass-rootless
 
+Package: re.brida.server
+Version: 16.0.11
+Architecture: iphoneos-arm
+Maintainer: Ole André Vadla Ravnås <oleavr@nowsecure.com>
+Installed-Size: 25280
+Conflicts: re.brida.server64
+Filename: ./debs/brida_16.0.11_iphoneos-arm.deb
+Size: 8215272
+MD5sum: 6d81f41813ed33d211fb6ee0c7ad9143
+SHA1: 21ce9034e87b8d0f0001df8f3a46e4a4334d0c9e
+SHA256: 09bfe47d0b6d28faf4fafc85cec35ba731a61a033341debccc83d09a974987ec
+Section: Development
+Priority: optional
+Homepage: https://zhaoboy9692.github.io/repo/
+Description: frida修改为brida
+Author: zxc
+Name: Brida
+
