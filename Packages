@@ -166,25 +166,6 @@ Description: frp的client端,需要将frpc.ini放在/var目录下
 Author: zxc
 Name: FRPC
 
-Package: com.zxc.frpc-rootless
-Version: 0.48.2
-Architecture: iphoneos-arm
-Maintainer: zxc
-Installed-Size: 13012
-Depends: libiosexec1
-Conflicts: frpc-rootless
-Filename: ./debs/frpc-rootless_0.48.2.deb
-Size: 3504540
-MD5sum: 95d93be2025e3f7eb33d68f8c5aafd1e
-SHA1: d96eb91c50ba03e3e0e01981ae7fdc1366078ca6
-SHA256: 92cf2ba319f8cf8441069bc74a1b793661ed7e5cccf2ed0b4c59a237da262d48
-Section: Development
-Priority: optional
-Homepage: https://zhaoboy9692.github.io/repo
-Description: frp的client端,需要将frpc.ini放在/var目录下
-Author: zxc
-Name: FRPC
-
 Package: com.zxc.frps
 Version: 0.48.0
 Architecture: iphoneos-arm
