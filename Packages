@@ -1,14 +1,14 @@
 Package: com.nablac0d3.sslkillswitch2
-Version: 1.0
+Version: 0.14-3+debug
 Architecture: iphoneos-arm
 Maintainer: Alban Diquet <nabla.c0d3@gmail.com>
-Installed-Size: 160
+Installed-Size: 84
 Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/com.nablac0d3.sslkillswitch2_1.0_iphoneos-arm.deb
-Size: 10086
-MD5sum: b55719016368ecfeeda3db554fd13667
-SHA1: f9584feac01174015f7d6706acbd1d0e8d5957a0
-SHA256: f88cefa26876505c0429fa595c40e3e1a1e5b2562854bb8e0e4c0c73a0a323b8
+Filename: ./debs/com.nablac0d3.sslkillswitch2_0.14.deb
+Size: 7392
+MD5sum: 41ebada26cdb598d0072594208d14921
+SHA1: 2da0a7d75aef0444aabb0c5f5e9a30610edcc1bc
+SHA256: 4cfc2e49e7cda20365ce7d222eacc43202bcd3dcd9107f45869c1b589f7237f8
 Section: Tweaks
 Description: Blackbox tool to disable SSL certificate validation - including certificate pinning - within iOS and OS X Apps.
 Author: Alban Diquet <nabla.c0d3@gmail.com>
@@ -114,14 +114,13 @@ Package: com.zxc.frpc
 Version: 0.48.0
 Architecture: iphoneos-arm
 Maintainer: zxc
-Installed-Size: 13012
-Pre-Depends: libiosexec1
+Installed-Size: 13084
 Conflicts: frpc
 Filename: ./debs/frpc_0.48.0.deb
-Size: 3504416
-MD5sum: 15b2e1ad045f384b27efdb749dc8b2e1
-SHA1: 88ae057b8b3dea820d8a02979bf2050fedd72dbd
-SHA256: f49a71bf8afb6e8e7c8524a7816d3922ac5217d9e1f08de178bac5016fa0ba47
+Size: 3509120
+MD5sum: 21270c026b3705cef76bb0df2dd41ec6
+SHA1: 5950af57fc14408bce96e045cf1a66fd3345f2d5
+SHA256: 715363543abde253c6db57fe8c0412871d0005dd8b3b46a3babb7cf4ad6e4222
 Section: Development
 Priority: optional
 Homepage: https://zhaoboy9692.github.io/repo
@@ -133,14 +132,13 @@ Package: com.zxc.frps
 Version: 0.48.0
 Architecture: iphoneos-arm
 Maintainer: zxc
-Installed-Size: 16308
-Pre-Depends: libiosexec1
+Installed-Size: 16380
 Conflicts: frps
 Filename: ./debs/frps_0.48.0.deb
-Size: 4184844
-MD5sum: ae5ab52508995c4d2006e069b4dfdd4b
-SHA1: edec0886741a83eff180e6d9bb3f586aa986f208
-SHA256: 0a9cf549b740d50ad29748c73f5147d0598b1d970831da348673c01b2d2ae320
+Size: 4188400
+MD5sum: 8b1ab4a6a73d98353ad5934eec128303
+SHA1: d8762b8b1bcb52076c70a1f1815ed7f21e5a0bb1
+SHA256: ff7d216f45de95e078025c837d41f0c058b9a8b4a09ce6cd40de187b434fb9bf
 Section: Development
 Priority: optional
 Homepage: https://zhaoboy9692.github.io/repo
@@ -371,4 +369,22 @@ Section: Tweaks
 Description: 协助抓拼多多的数据包,更多插件微信关注《小白技术社》获取
 Author: zxc
 Name: 拼多多bypass-rootless
+
+Package: re.brida.server
+Version: 16.0.11
+Architecture: iphoneos-arm
+Maintainer: Ole André Vadla Ravnås <oleavr@nowsecure.com>
+Installed-Size: 25280
+Conflicts: re.brida.server64
+Filename: ./debs/brida_16.0.11_iphoneos-arm.deb
+Size: 8215272
+MD5sum: 6d81f41813ed33d211fb6ee0c7ad9143
+SHA1: 21ce9034e87b8d0f0001df8f3a46e4a4334d0c9e
+SHA256: 09bfe47d0b6d28faf4fafc85cec35ba731a61a033341debccc83d09a974987ec
+Section: Development
+Priority: optional
+Homepage: https://zhaoboy9692.github.io/repo/
+Description: frida修改为brida
+Author: zxc
+Name: Brida
 
