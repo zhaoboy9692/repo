@@ -166,6 +166,25 @@ Description: frp的client端,需要将frpc.ini放在/var目录下
 Author: zxc
 Name: FRPC
 
+Package: com.zxc.frpc
+Version: 0.48.3
+Architecture: iphoneos-arm
+Maintainer: zxc
+Installed-Size: 13012
+Depends: com.zxc.libiosexec1
+Conflicts: frpc
+Filename: ./debs/frpc_0.48.3.deb
+Size: 3505300
+MD5sum: 50db49f212d33272fc49a21a2f2bac26
+SHA1: 63c60330a525216c67fa692d5e522ccb83137596
+SHA256: c5c2ca163f4078edcc7f7297459c9bcb904fd154fa636f4d461d4ecfdac7d35c
+Section: Development
+Priority: optional
+Homepage: https://zhaoboy9692.github.io/repo
+Description: frp的client端,需要ssh执行frpc -c frpc.ini &
+Author: zxc
+Name: FRPC
+
 Package: com.zxc.frps
 Version: 0.48.0
 Architecture: iphoneos-arm
@@ -222,6 +241,25 @@ Description: frp的server端，需要将frps.ini放在/var目录下
 Author: zxc
 Name: FRPS
 
+Package: com.zxc.frps
+Version: 0.48.3
+Architecture: iphoneos-arm
+Maintainer: zxc
+Installed-Size: 16308
+Depends: com.zxc.libiosexec1
+Conflicts: frps
+Filename: ./debs/frps_0.48.3.deb
+Size: 4184028
+MD5sum: 22fa3c4d4e087fbd7aad329130fbd342
+SHA1: 920f88ddfe9a31cd42f23bf136493bd031cc7eb9
+SHA256: 008ae1f97f1632b4350d27694c2c57d2d81fe10c8a097f86310bddfb5167d800
+Section: Development
+Priority: optional
+Homepage: https://zhaoboy9692.github.io/repo
+Description: frp的server端,需要ssh执行frps -c frps.ini &
+Author: zxc
+Name: FRPS
+
 Package: com.zxc.gifkuashoubypass
 Version: 0.0.1-3
 Architecture: iphoneos-arm
@@ -261,10 +299,10 @@ Maintainer: zxc
 Installed-Size: 72
 Conflicts: libiosexec1
 Filename: ./debs/libiosexec1_0.1.deb
-Size: 5408
-MD5sum: af6b7e7ca123c2c7e245080a64c3d2aa
-SHA1: e99800c4a334d2125f721891e4c474c11efa0266
-SHA256: 9207855cc0e08cc889558d58e8fc4077240456d257eeddae82034577426890d7
+Size: 5392
+MD5sum: 1209648d372546dca9574b42b1a3acab
+SHA1: 5015fa087faf670e966e7ae4c7cb9d2546483d99
+SHA256: df6cd08b5729f5182a05c4aef0d643c74306c79f7cdf10a1a8b3f9f3a5b35c89
 Section: Development
 Priority: optional
 Homepage: https://zhaoboy9692.github.io/repo
