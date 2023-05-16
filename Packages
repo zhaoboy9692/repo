@@ -185,63 +185,6 @@ Description: frp的client端,需要ssh执行frpc -c frpc.ini &
 Author: zxc
 Name: FRPC
 
-Package: com.zxc.frpc
-Version: 0.48.4
-Architecture: iphoneos-arm
-Maintainer: zxc
-Installed-Size: 13076
-Depends: com.zxc.libiosexec1
-Conflicts: frpc
-Filename: ./debs/frpc_0.48.4.deb
-Size: 3568932
-MD5sum: 137824b827d6f17237534eca4169d315
-SHA1: dfc89a38263e5b31ad2a5c86b928181b54b602e5
-SHA256: 173ca9b7dbf3dc526dbd98a03f542b7517ed7ab64d099a7ee78c768a785d2389
-Section: Development
-Priority: optional
-Homepage: https://zhaoboy9692.github.io/repo
-Description: frp的client端,需要ssh执行frpc -c frpc.ini &
-Author: zxc
-Name: FRPC
-
-Package: com.zxc.frpc
-Version: 0.48.5
-Architecture: iphoneos-arm
-Maintainer: zxc
-Installed-Size: 13044
-Depends: com.zxc.libiosexec1
-Conflicts: frpc
-Filename: ./debs/frpc_0.48.5.deb
-Size: 3504416
-MD5sum: d3e17eac1a6e1d116cc931ef999a082f
-SHA1: f7d0aa8bd70b5f77aacefd598c505bbe49c8d7f4
-SHA256: 8fa5c557d047946fad63b2a1f870417b616fb53e7def5a8ec99115b5b6e9247a
-Section: Development
-Priority: optional
-Homepage: https://zhaoboy9692.github.io/repo
-Description: frp的client端,需要ssh执行frpc -c frpc.ini &
-Author: zxc
-Name: FRPC
-
-Package: com.zxc.frpc
-Version: 0.48.6
-Architecture: iphoneos-arm
-Maintainer: zxc
-Installed-Size: 13108
-Depends: com.zxc.libiosexec1
-Conflicts: frpc
-Filename: ./debs/frpc_0.48.6.deb
-Size: 3570420
-MD5sum: 441484962abc909f72807a4780dc2871
-SHA1: 4495e4d65fe6ea4afef6952bda195d92b56297d5
-SHA256: c8449031aa8bb7d4deb237345a26e324cab1d6469f6e4bcaf5a23895167bc0f8
-Section: Development
-Priority: optional
-Homepage: https://zhaoboy9692.github.io/repo
-Description: frp的client端,需要ssh执行frpc -c frpc.ini &
-Author: zxc
-Name: FRPC
-
 Package: com.zxc.frps
 Version: 0.48.0
 Architecture: iphoneos-arm
