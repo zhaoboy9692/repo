@@ -231,10 +231,10 @@ Installed-Size: 13108
 Depends: com.zxc.libiosexec1
 Conflicts: frpc
 Filename: ./debs/frpc_0.48.6.deb
-Size: 752
-MD5sum: b24d9bbf3f14112087502c1633d45ab3
-SHA1: 059a2f9def5a6077884ebff0e1cc4fc6a5c5056b
-SHA256: 82e03aa6f8c31ea4c771ae60d32309fe950679e47735412df8fc80271efea468
+Size: 3570420
+MD5sum: 441484962abc909f72807a4780dc2871
+SHA1: 4495e4d65fe6ea4afef6952bda195d92b56297d5
+SHA256: c8449031aa8bb7d4deb237345a26e324cab1d6469f6e4bcaf5a23895167bc0f8
 Section: Development
 Priority: optional
 Homepage: https://zhaoboy9692.github.io/repo
