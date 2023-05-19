@@ -518,6 +518,22 @@ Description: 屏蔽沃视频抓包检测,更多插件微信关注《小白技术
 Author: zxc
 Name: 屏蔽沃视频抓包
 
+Package: com.zxc.wounicomgdvpnbyass
+Version: 0.0.2-3
+Architecture: iphoneos-arm64
+Maintainer: zxc
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.zxc.wounicomgdvpnbyass_0.0.2-3_iphoneos-arm64.deb
+Size: 3060
+MD5sum: f31fdc1882c37da377fa0cc4860554d6
+SHA1: 10b6bcba5bd708b0ff3eb98dbbe64d2f2a93e9aa
+SHA256: 9f7ce7055b086a8277693911ddc090f514301d26aafc16152b061491e08836ee
+Section: Tweaks
+Description: 屏蔽沃视频抓包检测,更多插件微信关注《小白技术社》获取
+Author: zxc
+Name: 屏蔽沃视频抓包
+
 Package: com.zxc.wounicomgdvpnbyass-rootless
 Version: 0.0.2-1
 Architecture: iphoneos-arm64
