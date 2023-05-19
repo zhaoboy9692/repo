@@ -487,22 +487,6 @@ Author: codecolorist
 Name: WebViewDebug-rootless
 
 Package: com.zxc.wounicomgdvpnbyass
-Version: 0.0.2-1+debug
-Architecture: iphoneos-arm64
-Maintainer: zxc
-Installed-Size: 136
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.zxc.wounicomgdvpnbyass_0.0.2-1+debug_iphoneos-arm64.deb
-Size: 3026
-MD5sum: 133fe540e0fec6f661296811cc95904a
-SHA1: 46f104fbabaf4419ee70af4dcafc8295480836a9
-SHA256: c101f25c98dfdff989cc0830a0f8512258ac52e7193a95dd4598c74306e93500
-Section: Tweaks
-Description: 屏蔽沃视频抓包检测,更多插件微信关注《小白技术社》获取
-Author: zxc
-Name: 屏蔽沃视频抓包
-
-Package: com.zxc.wounicomgdvpnbyass
 Version: 0.0.2-2
 Architecture: iphoneos-arm64
 Maintainer: zxc
@@ -519,16 +503,16 @@ Author: zxc
 Name: 屏蔽沃视频抓包
 
 Package: com.zxc.wounicomgdvpnbyass
-Version: 0.0.2-3
+Version: 0.0.3-4
 Architecture: iphoneos-arm64
 Maintainer: zxc
-Installed-Size: 136
-Depends: mobilesubstrate
-Filename: ./debs/com.zxc.wounicomgdvpnbyass_0.0.2-3_iphoneos-arm64.deb
-Size: 3060
-MD5sum: f31fdc1882c37da377fa0cc4860554d6
-SHA1: 10b6bcba5bd708b0ff3eb98dbbe64d2f2a93e9aa
-SHA256: 9f7ce7055b086a8277693911ddc090f514301d26aafc16152b061491e08836ee
+Installed-Size: 200
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.zxc.wounicomgdvpnbyass_0.0.3-4_iphoneos-arm64.deb
+Size: 3796
+MD5sum: fdead1a3258430b0b171a6b802918d28
+SHA1: 5c6b5b3b7a71510f5261993885ac12b7cdd6f417
+SHA256: 49610b192bdc4c143c51b44f2008a6388a40cecccf22567a11a6a361f89cfe48
 Section: Tweaks
 Description: 屏蔽沃视频抓包检测,更多插件微信关注《小白技术社》获取
 Author: zxc
