@@ -582,3 +582,17 @@ Description: 协助抓拼多多的数据包,更多插件微信关注《小白技
 Author: zxc
 Name: 拼多多bypass-rootless
 
+Package: zhaoxincheng.com.CheckProxyByPass
+Version: 0.1-1
+Architecture: iphoneos-arm
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/zhaoxincheng.com.CheckProxyByPass_0.1-1_iphoneos-arm.deb
+Size: 21572
+MD5sum: a74d0eac9fe72ab72b4542f3c1a0feff
+SHA1: 949d5912f20340af0e677373a3448e6f99212f3d
+SHA256: 612749c165575b91146b71f9bffd4070c61836bfb92acb5aa21eb288655cc322
+Section: System
+Priority: optional
+Author: zxc
+Name: 屏蔽抓包代理检测
+
