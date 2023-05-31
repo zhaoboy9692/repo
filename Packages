@@ -423,22 +423,6 @@ Author: zxc
 Name: 建行生活屏蔽越狱-rootless
 
 Package: com.zxc.longlife-rootless
-Version: 0.0.6-4+debug
-Architecture: iphoneos-arm
-Maintainer: zxc
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.zxc.longlife-rootless_0.0.6-4+debug_iphoneos-arm.deb
-Size: 3430
-MD5sum: 4acb39057656d62b6a94588d78b6fec7
-SHA1: ce1e96571f3d1fd5497d4427a888cfcc0efd409f
-SHA256: c48e59a5f35e8452d346777c166f96bf0116da8c10fdc444379ffc3aabb78703
-Section: Tweaks
-Description: 建行生活屏蔽越狱检测,请他应用请使用`禁止代理检测`插件去除抓包检测，其他插件微信关注《小白技术社》获取
-Author: zxc
-Name: 建行生活屏蔽越狱-rootless
-
-Package: com.zxc.longlife-rootless
 Version: 0.0.6-5
 Architecture: iphoneos-arm64
 Maintainer: zxc
@@ -453,6 +437,22 @@ Section: Tweaks
 Description: 建行生活屏蔽越狱检测,请他应用请使用`禁止代理检测`插件去除抓包检测，其他插件微信关注《小白技术社》获取
 Author: zxc
 Name: 建行生活屏蔽越狱-rootless
+
+Package: com.zxc.longlife-rootless
+Version: 0.0.7-1
+Architecture: iphoneos-arm64
+Maintainer: zxc
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.zxc.longlife-rootless_0.0.7-1_iphoneos-arm64.deb
+Size: 3092
+MD5sum: 713494a3eea74e691609db0b71c8a4e2
+SHA1: 9358a02d478b0fda9e7c032b74ef2159e30b1e2b
+SHA256: 0e90e90e693e2383c9ff9e0fef3007dd6a2e9fcc05e2fb337139f32e384370b1
+Section: Tweaks
+Description: 建行生活屏蔽越狱抓包检测,请他应用请使用`禁止代理检测`插件去除抓包检测，其他插件微信关注《小白技术社》获取
+Author: zxc
+Name: 建行生活屏蔽越狱和抓包-rootless
 
 Package: com.zxc.mixbypass
 Version: 0.0.1-5
