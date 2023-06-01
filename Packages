@@ -217,6 +217,44 @@ Description: frp的client端,需要ssh执行frpc -c frpc.ini &
 Author: zxc
 Name: FRPC
 
+Package: com.zxc.frpc
+Version: 0.48.7
+Architecture: iphoneos-arm
+Maintainer: zxc
+Installed-Size: 13016
+Depends: com.zxc.libiosexec1
+Conflicts: frpc
+Filename: ./debs/frpc_0.48.7.deb
+Size: 3504548
+MD5sum: 15955b1578fbd7c76c4f1d11e415589b
+SHA1: ed1a2ce42ad9f432dfd534151ab932a0cd65f4e6
+SHA256: 39a0b551d1ae8365d815e13db270940be9d30d0767c251716db67a6b10bfa33d
+Section: Development
+Priority: optional
+Homepage: https://zhaoboy9692.github.io/repo
+Description: frp的client端,需要在ios的ssh里面修改/var/frpc.ini,后需要ssh执行frpc -c /var/frpc.ini &，更多好用插件微信关注《小白技术社》获取
+Author: zxc
+Name: frpc
+
+Package: com.zxc.frpc-rootless
+Version: 0.48.7
+Architecture: iphoneos-arm64
+Maintainer: zxc
+Installed-Size: 13016
+Depends: libiosexec1
+Conflicts: frpc
+Filename: ./debs/frpc_rootless_0.48.7.deb
+Size: 3506676
+MD5sum: dc6097e8a8d8e8a8a7d580f4b95a832d
+SHA1: 6f7f17b3d981fc8ca6a0f30498944ed7d07e6b9d
+SHA256: f4b22485b8f75bf96a85e89956239268e5b43d84ad5592560d7eb91afb5ff22d
+Section: Development
+Priority: optional
+Homepage: https://zhaoboy9692.github.io/repo
+Description: frp的client端,需要在ios的ssh里面修改/var/frpc.ini,后需要ssh执行frpc -c /var/frpc.ini &，更多好用插件微信关注《小白技术社》获取
+Author: zxc
+Name: frpc-rootless
+
 Package: com.zxc.frps
 Version: 0.48.0
 Architecture: iphoneos-arm
@@ -291,6 +329,44 @@ Homepage: https://zhaoboy9692.github.io/repo
 Description: frp的server端,需要ssh执行frps -c frps.ini &
 Author: zxc
 Name: FRPS
+
+Package: com.zxc.frps
+Version: 0.48.7
+Architecture: iphoneos-arm
+Maintainer: zxc
+Installed-Size: 16312
+Depends: com.zxc.libiosexec1
+Conflicts: frps
+Filename: ./debs/frps_0.48.7.deb
+Size: 4184204
+MD5sum: 31dfe8b95d5d6698a7e4a5f6afe1adc6
+SHA1: 7a1441005f9adfe4c9deed8468c0dd9cb40891d3
+SHA256: 9864fadce9e8d725e8e0dc63210d0d673541354213ac291fcd0fad809ebfe4dc
+Section: Development
+Priority: optional
+Homepage: https://zhaoboy9692.github.io/repo
+Description: frp的server端,需要在ios的ssh里面修改/var/frps.ini,后执行frps -c /var/frps.ini &，更多好用插件微信关注《小白技术社》获取
+Author: zxc
+Name: frps
+
+Package: com.zxc.frps-rootless
+Version: 0.48.7
+Architecture: iphoneos-arm64
+Maintainer: zxc
+Installed-Size: 16312
+Depends: libiosexec1
+Conflicts: frps
+Filename: ./debs/frps_rootless_0.48.7.deb
+Size: 4183448
+MD5sum: 7e6d3ef3fe6f8463c1b1d4ea1a145d3e
+SHA1: fad790620812b8cb99891a893494065cd8af1984
+SHA256: c1b7bfa8e53e45d3290f23c2ee12d1d515c002ab2f34f4b5dab63d88d270e565
+Section: Development
+Priority: optional
+Homepage: https://zhaoboy9692.github.io/repo
+Description: frp的server端,需要在ios的ssh里面修改/var/frps.ini,后执行frps -c /var/frps.ini &，更多好用插件微信关注《小白技术社》获取
+Author: zxc
+Name: frps-rootless
 
 Package: com.zxc.gifkuashoubypass
 Version: 0.0.1-3
