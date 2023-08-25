@@ -143,32 +143,32 @@ Author: zxc
 Name: 禁止代理检测-rootless
 
 Package: com.zxc.dispsbc
-Version: 0.0.1-1
+Version: 0.0.1-3
 Architecture: iphoneos-arm
 Maintainer: zxc
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.zxc.dispsbc_0.0.1-1_iphoneos-arm.deb
-Size: 3824
-MD5sum: 9702f73449cfc1f1872b166980a72758
-SHA1: 31d75618691091c7bf8b52c22eafc4be7fc7e132
-SHA256: 326fd2d78b12c146724025f19da7363734dd7901ef8d1d1691730730f27881e4
+Filename: ./debs/com.zxc.dispsbc_0.0.1-3_iphoneos-arm.deb
+Size: 3780
+MD5sum: ffc177f643e09f527894aaca79e3fc27
+SHA1: 7aac928b50e835959cff023ba2132161ebed59e0
+SHA256: 271f58c9879797db8cfb1d2d314e292fffae65644dd3eabc003db6e37b243baa
 Section: Tweaks
 Description: 邮储信用卡屏蔽越狱和禁止更新！！！仅适用于邮储信用卡4.0，其他版本请自行测试
 Author: zxc
 Name: 邮储信用卡禁止检测
 
 Package: com.zxc.dispsbc-rootless
-Version: 0.0.1-1
+Version: 0.0.1-3
 Architecture: iphoneos-arm64
 Maintainer: zxc
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.zxc.dispsbc-rootless_0.0.1-1_iphoneos-arm64.deb
-Size: 3856
-MD5sum: aff5a542087926012078c1ae2bac9640
-SHA1: a9a5ed8d537d6715306df3fd47f752ffa662daec
-SHA256: 0564f9015d13bfdbed76adf3f6300af58727e94da4b7190b44ea2888fd2b641d
+Filename: ./debs/com.zxc.dispsbc-rootless_0.0.1-3_iphoneos-arm64.deb
+Size: 3814
+MD5sum: f252c1fb9bc9178dbc61a0bfe56302b5
+SHA1: d0484362d587c8baed8b6a1318106968d7dceb83
+SHA256: 647d45079e8cda0100d739dc465826cc1fe182aba7ac9eba06284f34105ef630
 Section: Tweaks
 Description: 邮储信用卡屏蔽越狱和禁止更新！！！仅适用于邮储信用卡4.0，其他版本请自行测试
 Author: zxc
