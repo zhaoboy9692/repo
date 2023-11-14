@@ -191,6 +191,22 @@ Author: zxc
 Name: 邮储信用卡禁止检测
 
 Package: com.zxc.dispsbc-rootless
+Version: 0.0.1-11
+Architecture: iphoneos-arm64
+Maintainer: zxc
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.zxc.dispsbc-rootless_0.0.1-11_iphoneos-arm64.deb
+Size: 4278
+MD5sum: a4758af0ae94e44bce20db6c453a61aa
+SHA1: 390d12b76cb1d7bd985942d9f344868f6850bb40
+SHA256: 4c9d34635edb31953af220706653b2844e15c28faf68ed308f331d57919826f8
+Section: Tweaks
+Description: 邮储信用卡屏蔽越狱和禁止更新！！！仅适用于邮储信用卡适用于4.2.2及以下，其他版本请自行测试
+Author: zxc
+Name: 邮储信用卡禁止检测-rootless
+
+Package: com.zxc.dispsbc-rootless
 Version: 0.0.1-3
 Architecture: iphoneos-arm64
 Maintainer: zxc
