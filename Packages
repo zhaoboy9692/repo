@@ -864,6 +864,38 @@ Description: Mix滤镜大师Vip破解,更多插件微信关注《小白技术社
 Author: zxc
 Name: Mix滤镜大师VipBypass-rootless
 
+Package: com.zxc.openapp
+Version: 0.0.1-4
+Architecture: iphoneos-arm64
+Maintainer: zxc
+Installed-Size: 164
+Filename: ./debs/com.zxc.openapp_rootless_0.0.1-4_iphoneos-arm64.deb
+Size: 4106
+MD5sum: ce347ce3b2780e9a0c5ca4a342608d3d
+SHA1: 9d57268f94527da9621639b75761e5ca048d0c80
+SHA256: 76ab1bad20786820e02f02cd54f699c481efcf9f74779b3628ebfe4f4f09eb15
+Section: System
+Description: An awesome tool of some sort!!
+Tag: role::hacker
+Author: zxc
+Name: openapp-rootless
+
+Package: com.zxc.openapp
+Version: 0.0.1-6
+Architecture: iphoneos-arm
+Maintainer: zxc
+Installed-Size: 148
+Filename: ./debs/com.zxc.openapp_0.0.1-6_iphoneos-arm.deb
+Size: 4078
+MD5sum: c51fc037805cc2b4b59ebd860be63ff3
+SHA1: 2320a505af14b4ff007d900e0ca5b8ed26e7a7a7
+SHA256: 241d3431706d69e6468a478b535a36cdeaddfc6816d45d25a145432cc4e31d37
+Section: System
+Description: An awesome tool of some sort!!
+Tag: role::hacker
+Author: zxc
+Name: openapp
+
 Package: com.zxc.webviewdebug
 Version: 0.2.4-3
 Architecture: iphoneos-arm64
