@@ -897,98 +897,34 @@ Author: zxc
 Name: openapp
 
 Package: com.zxc.simpleremotecontrol
-Version: 0.0.1
-Architecture: iphoneos-arm
-Maintainer: zxc
-Installed-Size: 804
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/com.zxc.simpleremotecontrol_0.0.1_iphoneos-arm.deb
-Size: 165226
-MD5sum: 5846795b78344be06f90924f40147c99
-SHA1: 19f02d7622db8f2f04f676502497c8b1d09f4c9a
-SHA256: b45f4127a776d01d73eeb3185a083ddfacd26eae58ed1f40ebddc2752c830972
-Section: Tweaks
-Description: 一个简单的远程控制手机插件，欢迎微信关注《小白技术社》使用方法 内网下 http://手机ip:58586 同时websocket使用58587端口，后续更新也在《小白技术社》通知，禁止某些辣鸡源和任何人重新打包和修改！！！
-Author: zxc
-Name: simpleremotecontrol
-
-Package: com.zxc.simpleremotecontrol
-Version: 0.0.2
+Version: 0.0.4
 Architecture: iphoneos-arm
 Maintainer: zxc
 Installed-Size: 808
 Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/com.zxc.simpleremotecontrol_0.0.2_iphoneos-arm.deb
-Size: 163374
-MD5sum: 5cafe22056d701a16c61aba2d262b3fc
-SHA1: 85c3f74cd424fd6b8fde70660f61b05bd565594b
-SHA256: f82530332a5b06f1c957e9c0547feb10a6b13fed2bba580cd1579a5e2106657f
+Filename: ./debs/com.zxc.simpleremotecontrol_0.0.4_iphoneos-arm.deb
+Size: 163546
+MD5sum: 3cee44fb25b4ff08cf88d6649a6fd127
+SHA1: d32c2ea2414d451b1e2cdd62fadf88258f3af941
+SHA256: 8fc4dd0abd70412027a8ee0a4fdf61147ca04b0f3bd8bf41483d32dbb6036b67
 Section: Tweaks
-Description: 一个简单的远程控制手机插件，欢迎微信关注《小白技术社》使用方法 内网下 http://手机ip:58586 同时websocket使用58587端口，后续更新也在《小白技术社》通知，禁止某些辣鸡源和任何人重新打包和修改！！！
-Author: zxc
-Name: simpleremotecontrol
-
-Package: com.zxc.simpleremotecontrol
-Version: 0.0.3
-Architecture: iphoneos-arm
-Maintainer: zxc
-Installed-Size: 808
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/com.zxc.simpleremotecontrol_0.0.3_iphoneos-arm.deb
-Size: 163472
-MD5sum: fa022c7a309b8815be3b59d28c028af2
-SHA1: 0c91ed1fe1628839263c6c000becd0a75f396446
-SHA256: 5c0495871b2d3c2fd01678109cd1664e94eeee2d7f842d60bee2ab5356447567
-Section: Tweaks
-Description: 一个简单的远程控制手机插件，欢迎微信关注《小白技术社》使用方法 内网下 http://手机ip:58586 同时websocket使用58587端口，后续更新也在《小白技术社》通知，禁止某些辣鸡源和任何人重新打包和修改！！！
+Description: 一个简单的远程控制手机插件(rootless没手机测试，请自行测试)，欢迎微信关注《小白技术社》使用方法 内网下 http://手机ip:58586 同时websocket使用58587端口，后续更新也在《小白技术社》通知，禁止某些辣鸡源和任何人重新打包和修改！！！
 Author: zxc
 Name: simpleremotecontrol
 
 Package: com.zxc.simpleremotecontrol-rootless
-Version: 0.0.1
-Architecture: iphoneos-arm64
-Maintainer: zxc
-Installed-Size: 788
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/com.zxc.simpleremotecontrol-rootless_0.0.1_iphoneos-arm64.deb
-Size: 159922
-MD5sum: f8b85af9c39212176670f9832d6bd039
-SHA1: 442fc9fd51541692f30581a07a5b36d458b313c2
-SHA256: a480bd37ea100b18986c7472d8b1acb94ec6c066a2b1f98b56565e5cf5bc5091
-Section: Tweaks
-Description: 一个简单的远程控制手机插件，欢迎微信关注《小白技术社》使用方法 内网下 http://手机ip:58586 同时websocket使用58587端口，后续更新也在《小白技术社》通知，禁止某些辣鸡源和任何人重新打包和修改！！！
-Author: zxc
-Name: simpleremotecontrol-rootless
-
-Package: com.zxc.simpleremotecontrol-rootless
-Version: 0.0.2
+Version: 0.0.4
 Architecture: iphoneos-arm64
 Maintainer: zxc
 Installed-Size: 792
 Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/com.zxc.simpleremotecontrol-rootless_0.0.2_iphoneos-arm64.deb
-Size: 159922
-MD5sum: 0917e9a1ef921d702440063f523e64fe
-SHA1: 2011edeb44d39206d724c9377f2b6fec93558156
-SHA256: d2adc64dc332dfc78dbcb5ec5447e36d544aa2c8a8ae2b1f80917f45d46e58a5
+Filename: ./debs/com.zxc.simpleremotecontrol-rootless_0.0.4_iphoneos-arm64.deb
+Size: 159918
+MD5sum: 4ee286cebfc72997fdb4baec79dd94ec
+SHA1: ac1079afa4337a2beeced1d6ffeabb3030c0e84b
+SHA256: c2691cc3982f67473954182ddaedb7028124b7b8da3517f95bb42f36458cfbd4
 Section: Tweaks
-Description: 一个简单的远程控制手机插件，欢迎微信关注《小白技术社》使用方法 内网下 http://手机ip:58586 同时websocket使用58587端口，后续更新也在《小白技术社》通知，禁止某些辣鸡源和任何人重新打包和修改！！！
-Author: zxc
-Name: simpleremotecontrol-rootless
-
-Package: com.zxc.simpleremotecontrol-rootless
-Version: 0.0.3
-Architecture: iphoneos-arm64
-Maintainer: zxc
-Installed-Size: 792
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/com.zxc.simpleremotecontrol-rootless_0.0.3_iphoneos-arm64.deb
-Size: 160020
-MD5sum: 78598539b731155f6352a24ce873c726
-SHA1: 766ee68b1d0e50402881316186388ece88a6cb3a
-SHA256: baeabbf810198d6798a4a28d5affe2d3d1c992ecf8638052bbc407bbf62a789d
-Section: Tweaks
-Description: 一个简单的远程控制手机插件，欢迎微信关注《小白技术社》使用方法 内网下 http://手机ip:58586 同时websocket使用58587端口，后续更新也在《小白技术社》通知，禁止某些辣鸡源和任何人重新打包和修改！！！
+Description: 一个简单的远程控制手机插件(rootless没手机测试，请自行测试)，欢迎微信关注《小白技术社》使用方法 内网下 http://手机ip:58586 同时websocket使用58587端口，后续更新也在《小白技术社》通知，禁止某些辣鸡源和任何人重新打包和修改！！！
 Author: zxc
 Name: simpleremotecontrol-rootless
 
