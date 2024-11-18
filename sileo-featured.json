@@ -1,0 +1,14 @@
+{
+    "itemSize": "{263, 148}",
+    "class": "FeaturedBannersView",
+    "banners": [
+        {
+            "package": "com.zxc.awemeproxybypass-rootless",
+            "title": "抖音抓包ByPass-rootless",
+            "url": "https://github.com/sileo-cydia/sileo-cydia.github.io/blob/master/tupian/7.jpg?raw=true",
+            "hideShadow": false
+        }
+       
+    ],
+    "itemCornerRadius": 10
+}

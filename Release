@@ -1,0 +1,10 @@
+Architectures: iphoneos-arm iphoneos-arm64
+Codename: iphoneos-arm64
+Components: main
+Date: Wed, 10 May 2023 10:42:00 +0000
+Description: 小白技术社的软件源
+Label: 小白技术社的软件源
+Origin: 小白技术社的软件源
+Suite: stable
+Version: 1.0
+

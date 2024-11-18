@@ -1,0 +1,1133 @@
+Package: com.chinapyg.lookinloader
+Version: 2.0.7
+Architecture: iphoneos-arm
+Maintainer: creantan/P.Y.G
+Installed-Size: 2944
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Filename: ./debs/com.chinapyg.lookinloader_2.0.7_iphoneos-arm.deb
+Size: 538196
+MD5sum: bb0f2837083bfd6b7d880e4f09b5a5e4
+SHA1: 73c31a63cf8a2edaf2f9fa1c659d9cac55bb1fac
+SHA256: c73758b2db05c74db37f17a96e62c16f038743debb2187713c3be8d44c7c5bc4
+Section: Tweaks
+Homepage: https://www.chinapyg.com
+Description: An awesome Lookin Loader for iOS8~iOS13!(https://www.chinapyg.com)
+Author: creantan/P.Y.G
+Icon: file:///Library/PreferenceLoader/Preferences/lookin@2x.png
+Name: LookinLoader
+
+Package: com.chinapyg.lookinloader-rootless
+Version: 2.0.7
+Architecture: iphoneos-arm64
+Maintainer: creantan/P.Y.G
+Installed-Size: 2944
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Filename: ./debs/com.chinapyg.lookinloader-rootless_2.0.7_iphoneos-arm64.deb
+Size: 535382
+MD5sum: 269894bfcd1f4efbf2941c7b9cecc85a
+SHA1: fb7c801b037d20f2d8c156ebd68905343d484be3
+SHA256: d04ad59c52f7c7d9792402428c53210cd0eb022b3be48e2910b6a713f871b844
+Section: Tweaks
+Homepage: https://www.chinapyg.com
+Description: An awesome Lookin Loader for iOS8~iOS13!(https://www.chinapyg.com)
+Author: creantan/P.Y.G
+Icon: file:///Library/PreferenceLoader/Preferences/lookin@2x.png
+Name: LookinLoader-rootless
+
+Package: com.nablac0d3.sslkillswitch2
+Version: 0.14-3+debug
+Architecture: iphoneos-arm
+Maintainer: Alban Diquet <nabla.c0d3@gmail.com>
+Installed-Size: 84
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.nablac0d3.sslkillswitch2_0.14.deb
+Size: 7392
+MD5sum: 41ebada26cdb598d0072594208d14921
+SHA1: 2da0a7d75aef0444aabb0c5f5e9a30610edcc1bc
+SHA256: 4cfc2e49e7cda20365ce7d222eacc43202bcd3dcd9107f45869c1b589f7237f8
+Section: Tweaks
+Description: Blackbox tool to disable SSL certificate validation - including certificate pinning - within iOS and OS X Apps.
+Author: Alban Diquet <nabla.c0d3@gmail.com>
+Name: SSL Kill Switch 2
+
+Package: com.zxc.awemelitebypass
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Maintainer: zxc
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.zxc.awemelitebypass_0.0.1-1_iphoneos-arm.deb
+Size: 3002
+MD5sum: 4f2966e7f95ffe165176196867d3856c
+SHA1: 830660521e2ac4e5379047927e7828f8845f318b
+SHA256: 3d36097702a800af51b70de6b8f3ab90649f93cb067138b31a261a821dbe46f4
+Section: Tweaks
+Description: 抖音极速版抓包bypass,更多插件微信关注《小白技术社》获取
+Author: zxc
+Name: 抖音极速版抓包bypass
+
+Package: com.zxc.awemelitebypass
+Version: 0.0.2-1
+Architecture: iphoneos-arm
+Maintainer: zxc
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.zxc.awemelitebypass_0.0.2-1_iphoneos-arm.deb
+Size: 3110
+MD5sum: 38b7dea2ce47fe7278fdb16e1a98d67e
+SHA1: 625330c1e95677b80171c1ddbac665f89c1afc1f
+SHA256: 52edcef62c25108a2a8c6594b726edd556935582f26f42d3015ba7de10474f7b
+Section: Tweaks
+Description: 抖音极速版抓包bypass,更多插件微信关注《小白技术社》获取
+Author: zxc
+Name: 抖音极速版抓包bypass
+
+Package: com.zxc.awemelitebypass-rootless
+Version: 0.0.1-1
+Architecture: iphoneos-arm64
+Maintainer: zxc
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.zxc.awemelitebypass-rootless_0.0.1-1_iphoneos-arm64.deb
+Size: 3040
+MD5sum: ebe79a1fbd6ee28407b7a21527714c87
+SHA1: cf5242ae8d55ea5f6dd1338cd61ee40d21389681
+SHA256: 1377dbb315dc4049d398426df0965a5be11d93dcfdce60b1d9236acf5bdf3c0a
+Section: Tweaks
+Description: 抖音极速版抓包bypass,更多插件微信关注《小白技术社》获取
+Author: zxc
+Name: 抖音极速版抓包bypass-rootless
+
+Package: com.zxc.awemelitebypass-rootless
+Version: 0.0.2-1
+Architecture: iphoneos-arm64
+Maintainer: zxc
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.zxc.awemelitebypass-rootless_0.0.2-1_iphoneos-arm64.deb
+Size: 3140
+MD5sum: 06150f66a08ca50a5bccefce4a4e5bfe
+SHA1: 8f4b024c7006578b8726bb277c0f1956864d842f
+SHA256: a3291e823df7651e822671aeedff1b5e92931f72a5a9be7276c19065f744ede8
+Section: Tweaks
+Description: 抖音极速版抓包bypass,更多插件微信关注《小白技术社》获取
+Author: zxc
+Name: 抖音极速版抓包bypass-rootless
+
+Package: com.zxc.awemeproxybypass
+Version: 0.0.5-4
+Architecture: iphoneos-arm
+Maintainer: zxc
+Installed-Size: 216
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.zxc.awemeproxybypass_0.0.5-4_iphoneos-arm.deb
+Size: 4234
+MD5sum: 4e84d855fa19df52418fb7a2b75ae702
+SHA1: 472aa410659a3b9408779fc2f7df6b854654c20e
+SHA256: fde0489020c66f4e785e672af75801a4ad0ff6397ac0ad7576088281def51510
+Section: Tweaks
+Description: 抖音全版本抓包插件，其他插件微信关注《小白技术社》获取
+Author: zxc
+Name: 抖音抓包ByPass
+
+Package: com.zxc.awemeproxybypass-rootless
+Version: 0.0.5-2
+Architecture: iphoneos-arm64
+Maintainer: zxc
+Installed-Size: 216
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.zxc.awemeproxybypass-rootless_0.0.5-2_iphoneos-arm64.deb
+Size: 4270
+MD5sum: 026511b0f6101a21230de6c1b1faf59f
+SHA1: 40f9980815b7ac42c3b65f6f7386665db6a34448
+SHA256: d12b162c75a4d2907ccd04027f54d9d5ded7c2d2a91a8fa19dfccec8409679ba
+Section: Tweaks
+Description: 抖音全版本抓包插件，其他插件微信关注《小白技术社》获取
+Author: zxc
+Name: 抖音抓包ByPass-rootless
+
+Package: com.zxc.checkproxybypass
+Version: 0.1.2
+Architecture: iphoneos-arm
+Maintainer: zxc
+Installed-Size: 192
+Depends: mobilesubstrate , preferenceloader,com.opa334.altlist
+Filename: ./debs/com.zxc.checkproxybypass_0.1.2_iphoneos-arm.deb
+Size: 18092
+MD5sum: fe16f98547bf2a5c46f35745fe42c9a4
+SHA1: af873ae4302130dc2b23e16e9f8225c531e4c915
+SHA256: 08b11053db59c38cc6ecdfe5b0cb5ef3b81fe878ebd83aff58ccddc3470b3edb
+Section: Tweaks
+Description: 去除app抓包检测,安装之后在设置里面开启,有问题可以关注微信公众号《小白技术社》，仅用于学习交流使用
+Author: zxc
+Name: 禁止代理检测
+
+Package: com.zxc.checkproxybypass-rootless
+Version: 0.1.2
+Architecture: iphoneos-arm64
+Maintainer: zxc
+Installed-Size: 192
+Depends: mobilesubstrate , preferenceloader,com.opa334.altlist
+Filename: ./debs/com.zxc.checkproxybypass-rootless_0.1.2_iphoneos-arm64.deb
+Size: 17518
+MD5sum: 1c2a119e9aeb5df356740cf424f15c89
+SHA1: b9772c67acdadf5b7fbfb197c9a377a26f62c755
+SHA256: 40e7f4c03da775022540c3d9e5da534aa8ca261a9591f2ad33370975e55f602c
+Section: Tweaks
+Description: 去除app抓包检测,安装之后在设置里面开启,有问题可以关注微信公众号《小白技术社》，仅用于学习交流使用
+Author: zxc
+Name: 禁止代理检测-rootless
+
+Package: com.zxc.dispsbc
+Version: 0.0.1-3
+Architecture: iphoneos-arm
+Maintainer: zxc
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.zxc.dispsbc_0.0.1-3_iphoneos-arm.deb
+Size: 3780
+MD5sum: ffc177f643e09f527894aaca79e3fc27
+SHA1: 7aac928b50e835959cff023ba2132161ebed59e0
+SHA256: 271f58c9879797db8cfb1d2d314e292fffae65644dd3eabc003db6e37b243baa
+Section: Tweaks
+Description: 邮储信用卡屏蔽越狱和禁止更新！！！仅适用于邮储信用卡4.0，其他版本请自行测试
+Author: zxc
+Name: 邮储信用卡禁止检测
+
+Package: com.zxc.dispsbc
+Version: 0.0.1-4
+Architecture: iphoneos-arm
+Maintainer: zxc
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.zxc.dispsbc_0.0.1-4_iphoneos-arm.deb
+Size: 4142
+MD5sum: 4f5bfa0e190a4f467a12137212d0f8bd
+SHA1: 4d08fae52f1ac30d98592896563db4e451f5bda7
+SHA256: 227d201050ea2bb0733da384227be91e8ce70f9dc0d7730252455d2c6f6d3b80
+Section: Tweaks
+Description: 邮储信用卡屏蔽越狱和禁止更新！！！仅适用于邮储信用卡适用于4.2.2及以下，其他版本请自行测试
+Author: zxc
+Name: 邮储信用卡禁止检测
+
+Package: com.zxc.dispsbc
+Version: 0.0.1-5
+Architecture: iphoneos-arm64
+Maintainer: zxc
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.zxc.dispsbc_0.0.1-5_iphoneos-arm64.deb
+Size: 4176
+MD5sum: 4355550b0cca2b17acb5d023b529a2dc
+SHA1: 409aab84d241fde1e1aabc8706048049a449f729
+SHA256: 9b9652fa7f72d78e710fced7a7c0d349986a33660dd6484821c11746223c3023
+Section: Tweaks
+Description: 邮储信用卡屏蔽越狱和禁止更新！！！仅适用于邮储信用卡适用于4.2.2及以下，其他版本请自行测试
+Author: zxc
+Name: 邮储信用卡禁止检测
+
+Package: com.zxc.dispsbc-rootless
+Version: 0.0.1-11
+Architecture: iphoneos-arm64
+Maintainer: zxc
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.zxc.dispsbc-rootless_0.0.1-11_iphoneos-arm64.deb
+Size: 4278
+MD5sum: a4758af0ae94e44bce20db6c453a61aa
+SHA1: 390d12b76cb1d7bd985942d9f344868f6850bb40
+SHA256: 4c9d34635edb31953af220706653b2844e15c28faf68ed308f331d57919826f8
+Section: Tweaks
+Description: 邮储信用卡屏蔽越狱和禁止更新！！！仅适用于邮储信用卡适用于4.2.2及以下，其他版本请自行测试
+Author: zxc
+Name: 邮储信用卡禁止检测-rootless
+
+Package: com.zxc.dispsbc-rootless
+Version: 0.0.1-3
+Architecture: iphoneos-arm64
+Maintainer: zxc
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.zxc.dispsbc-rootless_0.0.1-3_iphoneos-arm64.deb
+Size: 3814
+MD5sum: f252c1fb9bc9178dbc61a0bfe56302b5
+SHA1: d0484362d587c8baed8b6a1318106968d7dceb83
+SHA256: 647d45079e8cda0100d739dc465826cc1fe182aba7ac9eba06284f34105ef630
+Section: Tweaks
+Description: 邮储信用卡屏蔽越狱和禁止更新！！！仅适用于邮储信用卡4.0，其他版本请自行测试
+Author: zxc
+Name: 邮储信用卡禁止检测
+
+Package: com.zxc.frpc
+Version: 0.48.0
+Architecture: iphoneos-arm
+Maintainer: zxc
+Installed-Size: 13084
+Conflicts: frpc
+Filename: ./debs/frpc_0.48.0.deb
+Size: 3509120
+MD5sum: 21270c026b3705cef76bb0df2dd41ec6
+SHA1: 5950af57fc14408bce96e045cf1a66fd3345f2d5
+SHA256: 715363543abde253c6db57fe8c0412871d0005dd8b3b46a3babb7cf4ad6e4222
+Section: Development
+Priority: optional
+Homepage: https://zhaoboy9692.github.io/repo
+Description: frp的client端,需要将frpc.ini放在/var目录下
+Author: zxc
+Name: FRPC
+
+Package: com.zxc.frpc
+Version: 0.48.1
+Architecture: iphoneos-arm
+Maintainer: zxc
+Installed-Size: 13012
+Depends: com.zxc.libiosexec1
+Conflicts: frpc
+Filename: ./debs/frpc_0.48.1.deb
+Size: 3504356
+MD5sum: 064a4514b38eb47b391456ee5c1eee31
+SHA1: 6c007760ed62439190a8c839113a1bf513e80b39
+SHA256: 39494e1cf3ec7ff47e9ca981f8d1c83fb959d75da7a3d0c70237658e5b0c9c28
+Section: Development
+Priority: optional
+Homepage: https://zhaoboy9692.github.io/repo
+Description: frp的client端,需要将frpc.ini放在/var目录下
+Author: zxc
+Name: FRPC
+
+Package: com.zxc.frpc
+Version: 0.48.2
+Architecture: iphoneos-arm
+Maintainer: zxc
+Installed-Size: 13012
+Depends: com.zxc.libiosexec1
+Conflicts: frpc
+Filename: ./debs/frpc_0.48.2.deb
+Size: 3503876
+MD5sum: 2e168e59f87a36880010da26856c85d9
+SHA1: c8180db0b9d1b1081c2cd75ff99d95010e7c40be
+SHA256: 375ab2b5682ae1a2fcf6212130b62adda5809444505d2aeceaf3fae0b2c693d7
+Section: Development
+Priority: optional
+Homepage: https://zhaoboy9692.github.io/repo
+Description: frp的client端,需要将frpc.ini放在/var目录下
+Author: zxc
+Name: FRPC
+
+Package: com.zxc.frpc
+Version: 0.48.3
+Architecture: iphoneos-arm
+Maintainer: zxc
+Installed-Size: 13012
+Depends: com.zxc.libiosexec1
+Conflicts: frpc
+Filename: ./debs/frpc_0.48.3.deb
+Size: 3505300
+MD5sum: 50db49f212d33272fc49a21a2f2bac26
+SHA1: 63c60330a525216c67fa692d5e522ccb83137596
+SHA256: c5c2ca163f4078edcc7f7297459c9bcb904fd154fa636f4d461d4ecfdac7d35c
+Section: Development
+Priority: optional
+Homepage: https://zhaoboy9692.github.io/repo
+Description: frp的client端,需要ssh执行frpc -c frpc.ini &
+Author: zxc
+Name: FRPC
+
+Package: com.zxc.frpc
+Version: 0.48.7
+Architecture: iphoneos-arm
+Maintainer: zxc
+Installed-Size: 13016
+Depends: com.zxc.libiosexec1
+Conflicts: frpc
+Filename: ./debs/frpc_0.48.7.deb
+Size: 3504548
+MD5sum: 15955b1578fbd7c76c4f1d11e415589b
+SHA1: ed1a2ce42ad9f432dfd534151ab932a0cd65f4e6
+SHA256: 39a0b551d1ae8365d815e13db270940be9d30d0767c251716db67a6b10bfa33d
+Section: Development
+Priority: optional
+Homepage: https://zhaoboy9692.github.io/repo
+Description: frp的client端,需要在ios的ssh里面修改/var/frpc.ini,后需要ssh执行frpc -c /var/frpc.ini &，更多好用插件微信关注《小白技术社》获取
+Author: zxc
+Name: frpc
+
+Package: com.zxc.frpc
+Version: 0.48.8
+Architecture: iphoneos-arm
+Maintainer: zxc
+Installed-Size: 13016
+Depends: libiosexec1
+Conflicts: frpc
+Filename: ./debs/frpc_0.48.8.deb
+Size: 3504356
+MD5sum: e85a55061247f58831dc8d37d629883a
+SHA1: 8f1e6519ea610436c45b374557f7914fc0c70a21
+SHA256: ef95509f218b0be51fe215b254e69854986032b437fc12a5d402c8587021d1e8
+Section: Development
+Priority: optional
+Homepage: https://zhaoboy9692.github.io/repo
+Description: frp的client端,需要在ios的ssh里面修改/var/frpc.ini,后需要ssh执行frpc -c /var/frpc.ini &，更多好用插件微信关注《小白技术社》获取
+Author: zxc
+Name: frpc
+
+Package: com.zxc.frpc
+Version: 0.51.3
+Architecture: iphoneos-arm
+Maintainer: zxc
+Installed-Size: 13804
+Depends: libiosexec1
+Conflicts: frpc
+Filename: ./debs/frpc_0.51.3.deb
+Size: 3732864
+MD5sum: 78b87791598e207b776adec66e4f5be8
+SHA1: b1f2408b743b623223257f3a51d7cc2b00d94438
+SHA256: 91b355d708d70fbbb8486847cd3e7e03cdc609342462842d3a484b565eb9d31e
+Section: Development
+Priority: optional
+Homepage: https://zhaoboy9692.github.io/repo
+Description: frp的client端,需要在ios的ssh里面修改/var/frpc.ini,后需要ssh执行frpc -c /var/frpc.ini &，更多好用插件微信关注《小白技术社》获取
+Author: zxc
+Name: frpc
+
+Package: com.zxc.frpc
+Version: 0.54.0
+Architecture: iphoneos-arm
+Maintainer: zxc
+Installed-Size: 14040
+Depends: libiosexec1
+Conflicts: frpc
+Filename: ./debs/frpc_0.54.0.deb
+Size: 3801068
+MD5sum: 615c1f94c344f7a296618aa9ee380072
+SHA1: 3a7dc0b317ac5d9d9600f3879ba418d5da8b29cf
+SHA256: b4a307c5c746fb86aeee206b6075bd5a0f6dca61a49f07c44538a84aeee749fe
+Section: Development
+Priority: optional
+Homepage: https://zhaoboy9692.github.io/repo
+Description: frp的client端,需要在ios的ssh里面修改/var/frpc.ini,后需要ssh执行frpc -c /var/frpc.ini &，更多好用插件微信关注《小白技术社》获取
+Author: zxc
+Name: frpc
+
+Package: com.zxc.frpc-rootless
+Version: 0.48.7
+Architecture: iphoneos-arm64
+Maintainer: zxc
+Installed-Size: 13016
+Depends: libiosexec1
+Conflicts: frpc
+Filename: ./debs/frpc_rootless_0.48.7.deb
+Size: 3506676
+MD5sum: dc6097e8a8d8e8a8a7d580f4b95a832d
+SHA1: 6f7f17b3d981fc8ca6a0f30498944ed7d07e6b9d
+SHA256: f4b22485b8f75bf96a85e89956239268e5b43d84ad5592560d7eb91afb5ff22d
+Section: Development
+Priority: optional
+Homepage: https://zhaoboy9692.github.io/repo
+Description: frp的client端,需要在ios的ssh里面修改/var/frpc.ini,后需要ssh执行frpc -c /var/frpc.ini &，更多好用插件微信关注《小白技术社》获取
+Author: zxc
+Name: frpc-rootless
+
+Package: com.zxc.frpc-rootless
+Version: 0.51.3
+Architecture: iphoneos-arm64
+Maintainer: zxc
+Installed-Size: 13804
+Depends: libiosexec1
+Conflicts: frpc
+Filename: ./debs/frpc_rootless_0.51.3.deb
+Size: 3735764
+MD5sum: 3ccbf21221cd57e7b14fefa809e70523
+SHA1: e8802eb44d3b244b3aa74135fc7522999d86320a
+SHA256: ffb4247bc211ac55f0022cef29e41242edc0cc8b857af179549eaa9169de15c7
+Section: Development
+Priority: optional
+Homepage: https://zhaoboy9692.github.io/repo
+Description: frp的client端,需要在ios的ssh里面修改/var/frpc.ini,后需要ssh执行frpc -c /var/frpc.ini &，更多好用插件微信关注《小白技术社》获取
+Author: zxc
+Name: frpc-rootless
+
+Package: com.zxc.frpc-rootless
+Version: 0.54.0
+Architecture: iphoneos-arm64
+Maintainer: zxc
+Installed-Size: 14040
+Depends: libiosexec1
+Conflicts: frpc
+Filename: ./debs/frpc_rootless_0.54.0.deb
+Size: 3800468
+MD5sum: 8db73957a0062ad93f8fd49ca64e084f
+SHA1: 159b88f7da6279f87f56c0ffacb99ec6d691f01c
+SHA256: deb40528562622881709cc4bf8876ec110d340ae64f71ba3f1ac2ef3021b76c6
+Section: Development
+Priority: optional
+Homepage: https://zhaoboy9692.github.io/repo
+Description: frp的client端,需要在ios的ssh里面修改/var/frpc.ini,后需要ssh执行frpc -c /var/frpc.ini &，更多好用插件微信关注《小白技术社》获取
+Author: zxc
+Name: frpc-rootless
+
+Package: com.zxc.frps
+Version: 0.48.0
+Architecture: iphoneos-arm
+Maintainer: zxc
+Installed-Size: 16380
+Conflicts: frps
+Filename: ./debs/frps_0.48.0.deb
+Size: 4188400
+MD5sum: 8b1ab4a6a73d98353ad5934eec128303
+SHA1: d8762b8b1bcb52076c70a1f1815ed7f21e5a0bb1
+SHA256: ff7d216f45de95e078025c837d41f0c058b9a8b4a09ce6cd40de187b434fb9bf
+Section: Development
+Priority: optional
+Homepage: https://zhaoboy9692.github.io/repo
+Description: frp的server端，需要将frps.ini放在/var目录下
+Author: zxc
+Name: FRPS
+
+Package: com.zxc.frps
+Version: 0.48.1
+Architecture: iphoneos-arm
+Maintainer: zxc
+Installed-Size: 16308
+Depends: com.zxc.libiosexec1
+Conflicts: frps
+Filename: ./debs/frps_0.48.1.deb
+Size: 4183568
+MD5sum: 019f13c45e4001c1925631a86ab8c5ef
+SHA1: bfdb541f1a23f6e69e608cf533b663f4d0aa8623
+SHA256: 4dd69cec77be63fab5e09684d64739530996ed4f05a6d7da80ef329ad54dd240
+Section: Development
+Priority: optional
+Homepage: https://zhaoboy9692.github.io/repo
+Description: frp的server端，需要将frps.ini放在/var目录下
+Author: zxc
+Name: FRPS
+
+Package: com.zxc.frps
+Version: 0.48.2
+Architecture: iphoneos-arm
+Maintainer: zxc
+Installed-Size: 16308
+Depends: com.zxc.libiosexec1
+Conflicts: frps
+Filename: ./debs/frps_0.48.2.deb
+Size: 4183464
+MD5sum: 0a2d56c1c450c5f2c707bd1e3da31777
+SHA1: 0c62c0222cf15d5ed2046b040f8bb8fc45cf8935
+SHA256: f54e125a60c19259d9a0b0dd688788d936b31cfeadb83383bc381c08add2c7a7
+Section: Development
+Priority: optional
+Homepage: https://zhaoboy9692.github.io/repo
+Description: frp的server端，需要将frps.ini放在/var目录下
+Author: zxc
+Name: FRPS
+
+Package: com.zxc.frps
+Version: 0.48.3
+Architecture: iphoneos-arm
+Maintainer: zxc
+Installed-Size: 16308
+Depends: com.zxc.libiosexec1
+Conflicts: frps
+Filename: ./debs/frps_0.48.3.deb
+Size: 4184028
+MD5sum: 22fa3c4d4e087fbd7aad329130fbd342
+SHA1: 920f88ddfe9a31cd42f23bf136493bd031cc7eb9
+SHA256: 008ae1f97f1632b4350d27694c2c57d2d81fe10c8a097f86310bddfb5167d800
+Section: Development
+Priority: optional
+Homepage: https://zhaoboy9692.github.io/repo
+Description: frp的server端,需要ssh执行frps -c frps.ini &
+Author: zxc
+Name: FRPS
+
+Package: com.zxc.frps
+Version: 0.48.7
+Architecture: iphoneos-arm
+Maintainer: zxc
+Installed-Size: 16312
+Depends: com.zxc.libiosexec1
+Conflicts: frps
+Filename: ./debs/frps_0.48.7.deb
+Size: 4184204
+MD5sum: 31dfe8b95d5d6698a7e4a5f6afe1adc6
+SHA1: 7a1441005f9adfe4c9deed8468c0dd9cb40891d3
+SHA256: 9864fadce9e8d725e8e0dc63210d0d673541354213ac291fcd0fad809ebfe4dc
+Section: Development
+Priority: optional
+Homepage: https://zhaoboy9692.github.io/repo
+Description: frp的server端,需要在ios的ssh里面修改/var/frps.ini,后执行frps -c /var/frps.ini &，更多好用插件微信关注《小白技术社》获取
+Author: zxc
+Name: frps
+
+Package: com.zxc.frps
+Version: 0.48.8
+Architecture: iphoneos-arm
+Maintainer: zxc
+Installed-Size: 16312
+Depends: libiosexec1
+Conflicts: frps
+Filename: ./debs/frps_0.48.8.deb
+Size: 4184280
+MD5sum: 7ec079768681b2f393b8ddbecf8b03c4
+SHA1: ae0e5d9a47b42e6c394320986517d8c7a132fb73
+SHA256: 8251a404c4d4031261e1c9bffbfc932ff3d12d13dc913ee232ce2888da0e5edc
+Section: Development
+Priority: optional
+Homepage: https://zhaoboy9692.github.io/repo
+Description: frp的server端,需要在ios的ssh里面修改/var/frps.ini,后执行frps -c /var/frps.ini &，更多好用插件微信关注《小白技术社》获取
+Author: zxc
+Name: frps
+
+Package: com.zxc.frps
+Version: 0.51.3
+Architecture: iphoneos-arm
+Maintainer: zxc
+Installed-Size: 16932
+Depends: libiosexec1
+Conflicts: frps
+Filename: ./debs/frps_0.51.3.deb
+Size: 4370260
+MD5sum: d2d9c4541abfb73e42c189eedbc0b50e
+SHA1: d6515d2ec9801079ffb4708301953ba9997c0dbd
+SHA256: 51e37eb09dd53284cd572d1fe063ee2b321b7d4010d790fd163aed2c1a2ff078
+Section: Development
+Priority: optional
+Homepage: https://zhaoboy9692.github.io/repo
+Description: frp的server端,需要在ios的ssh里面修改/var/frps.ini,后执行frps -c /var/frps.ini &，更多好用插件微信关注《小白技术社》获取
+Author: zxc
+Name: frps
+
+Package: com.zxc.frps
+Version: 0.54.0
+Architecture: iphoneos-arm
+Maintainer: zxc
+Installed-Size: 18468
+Depends: libiosexec1
+Conflicts: frps
+Filename: ./debs/frps_0.54.0.deb
+Size: 4755816
+MD5sum: 140e3459adda9c8e6d1fe1b95b222a3f
+SHA1: 346bf133a268d3ef91777bcc69948e3523dd0283
+SHA256: f5a93cc69443acaba234a73b3957451f44c9fbe037b0fde8b9ebd3b7c9cde50e
+Section: Development
+Priority: optional
+Homepage: https://zhaoboy9692.github.io/repo
+Description: frp的server端,需要在ios的ssh里面修改/var/frps.ini,后执行frps -c /var/frps.ini &，更多好用插件微信关注《小白技术社》获取
+Author: zxc
+Name: frps
+
+Package: com.zxc.frps-rootless
+Version: 0.48.7
+Architecture: iphoneos-arm64
+Maintainer: zxc
+Installed-Size: 16312
+Depends: libiosexec1
+Conflicts: frps
+Filename: ./debs/frps_rootless_0.48.7.deb
+Size: 4183448
+MD5sum: 7e6d3ef3fe6f8463c1b1d4ea1a145d3e
+SHA1: fad790620812b8cb99891a893494065cd8af1984
+SHA256: c1b7bfa8e53e45d3290f23c2ee12d1d515c002ab2f34f4b5dab63d88d270e565
+Section: Development
+Priority: optional
+Homepage: https://zhaoboy9692.github.io/repo
+Description: frp的server端,需要在ios的ssh里面修改/var/frps.ini,后执行frps -c /var/frps.ini &，更多好用插件微信关注《小白技术社》获取
+Author: zxc
+Name: frps-rootless
+
+Package: com.zxc.frps-rootless
+Version: 0.51.3
+Architecture: iphoneos-arm64
+Maintainer: zxc
+Installed-Size: 16932
+Depends: libiosexec1
+Conflicts: frps
+Filename: ./debs/frps_rootless_0.51.3.deb
+Size: 4371560
+MD5sum: 01356a99a2d764bf05ba0cc91ac87c91
+SHA1: d89368394eebf7c35d763ec0e3339d458f289fe4
+SHA256: 51717e08edac53ec54be22645f12f2a2e137e975204864aa6332d2fbe1aa845e
+Section: Development
+Priority: optional
+Homepage: https://zhaoboy9692.github.io/repo
+Description: frp的server端,需要在ios的ssh里面修改/var/frps.ini,后执行frps -c /var/frps.ini &，更多好用插件微信关注《小白技术社》获取
+Author: zxc
+Name: frps-rootless
+
+Package: com.zxc.frps-rootless
+Version: 0.54.0
+Architecture: iphoneos-arm64
+Maintainer: zxc
+Installed-Size: 18468
+Depends: libiosexec1
+Conflicts: frps
+Filename: ./debs/frps_rootless_0.54.0.deb
+Size: 4754548
+MD5sum: d299e157f503a455a13be05348004325
+SHA1: fcc9bed010ad925cc1b674345a128cdd39c68733
+SHA256: 4d992fa5f25b12918680fc28c43a9fff841cc31e97648c8472438d3dd09479f9
+Section: Development
+Priority: optional
+Homepage: https://zhaoboy9692.github.io/repo
+Description: frp的server端,需要在ios的ssh里面修改/var/frps.ini,后执行frps -c /var/frps.ini &，更多好用插件微信关注《小白技术社》获取
+Author: zxc
+Name: frps-rootless
+
+Package: com.zxc.gifkuashoubypass
+Version: 0.0.1-3
+Architecture: iphoneos-arm
+Maintainer: zxc
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.zxc.gifkuashoubypass_0.0.1-3_iphoneos-arm.deb
+Size: 3014
+MD5sum: 68392d496e856ce23d6d6816e4704e2a
+SHA1: ade77f66e250b5be2d1278410fdccf738335d7c7
+SHA256: 91e71435e3aa658f59335c2653e97294f1da77f8ce7f2178f58ba93852b3b0b9
+Section: Tweaks
+Description: 协助抓快手数据包，有问题可以关注微信公众号《小白技术社》，仅用于学习交流使用
+Author: zxc
+Name: 快手抓包bypass
+
+Package: com.zxc.gifkuashoubypass-rootless
+Version: 0.0.1-7
+Architecture: iphoneos-arm64
+Maintainer: zxc
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.zxc.gifkuashoubypass-rootless_0.0.1-7_iphoneos-arm64.deb
+Size: 3060
+MD5sum: 66fabc22ed9538cc914e83b5ad033370
+SHA1: 070d7bfb45cbe49c2e4a85714bbf2ebb01eeb7bc
+SHA256: 3b56351d700e5508e0236fbd854c48568504a4433dc8dc2de62792fd4dc5d397
+Section: Tweaks
+Description: 协助抓快手数据包，有问题可以关注微信公众号《小白技术社》，仅用于学习交流使用
+Author: zxc
+Name: 快手抓包bypass-rootless
+
+Package: com.zxc.libiosexec1
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: zxc
+Installed-Size: 72
+Conflicts: libiosexec1
+Filename: ./debs/libiosexec1_0.1.deb
+Size: 5392
+MD5sum: 1209648d372546dca9574b42b1a3acab
+SHA1: 5015fa087faf670e966e7ae4c7cb9d2546483d99
+SHA256: df6cd08b5729f5182a05c4aef0d643c74306c79f7cdf10a1a8b3f9f3a5b35c89
+Section: Development
+Priority: optional
+Homepage: https://zhaoboy9692.github.io/repo
+Description: frp需要的libiosexec1依赖,libiosexec.1.dylib拷贝到/usr/lib/
+Author: zxc
+Name: libiosexec1
+
+Package: com.zxc.longlife
+Version: 0.0.5-2
+Architecture: iphoneos-arm
+Maintainer: zxc
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.zxc.longlife_0.0.5-2_iphoneos-arm.deb
+Size: 3020
+MD5sum: d20744aa8225aeb232aa232d449fd5c4
+SHA1: 4a2ff24e3668fed7091f07a0be9b19599b1a6e40
+SHA256: 94bc67b1e65529e1c6118ff7de8ef02ea2f0650863e6eed90ed87cc276db3d33
+Section: Tweaks
+Description: 建行生活屏蔽越狱检测和抓包检测，其他插件微信关注《小白技术社》获取
+Author: zxc
+Name: 建行生活屏蔽越狱抓包检测
+
+Package: com.zxc.longlife
+Version: 0.0.6-1
+Architecture: iphoneos-arm
+Maintainer: zxc
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.zxc.longlife_0.0.6-1_iphoneos-arm.deb
+Size: 2922
+MD5sum: 3f981914813208feec1a3d6c56797474
+SHA1: 40a018655c59199463067258ef5855bd1913eea8
+SHA256: ebdde2cc5297e41630cdfabdfabdc5322e805e03c5604d91ea6e5d2c1d2da5bb
+Section: Tweaks
+Description: 建行生活屏蔽越狱检测,抓包检测请使用另外一款插件，其他插件微信关注《小白技术社》获取
+Author: zxc
+Name: 建行生活屏蔽越狱
+
+Package: com.zxc.longlife-rootless
+Version: 0.0.5-3
+Architecture: iphoneos-arm64
+Maintainer: zxc
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.zxc.longlife-rootless_0.0.5-3_iphoneos-arm64.deb
+Size: 3048
+MD5sum: 337a122cea749748b343b9e594e66d31
+SHA1: e4ffac2b28deca5a8554c9cf61c439620246f480
+SHA256: 53d89d58e7f3d8909120282bee6798a68335593c992840953726bf665664ef1c
+Section: Tweaks
+Description: 建行生活屏蔽越狱检测和抓包检测，其他插件微信关注《小白技术社》获取
+Author: zxc
+Name: 建行生活屏蔽越狱抓包检测-rootless
+
+Package: com.zxc.longlife-rootless
+Version: 0.0.6-1
+Architecture: iphoneos-arm64
+Maintainer: zxc
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.zxc.longlife-rootless_0.0.6-1_iphoneos-arm64.deb
+Size: 2958
+MD5sum: 3d5ac5a73debe483936b678d9bd7c5d2
+SHA1: 7c4eb72a833fdf3de542f03683a15438f493649b
+SHA256: f07c491f3388a20eacc1183f3248ff32ed85ab6968e5c261b04bcd14ea80128f
+Section: Tweaks
+Description: 建行生活屏蔽越狱检测,抓包检测请使用另外一款插件，其他插件微信关注《小白技术社》获取
+Author: zxc
+Name: 建行生活屏蔽越狱-rootless
+
+Package: com.zxc.longlife-rootless
+Version: 0.0.6-4
+Architecture: iphoneos-arm64
+Maintainer: zxc
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.zxc.longlife-rootless_0.0.6-4_iphoneos-arm64.deb
+Size: 3062
+MD5sum: 78873364e3e5878c7b225281dfc2fa43
+SHA1: 60f84c54a53b39280eec3b278aeea915b4275441
+SHA256: 56d0a6de121ae48b3ff6952b3eff3db6e45e71fe70ef9b836dd1d8002eead259
+Section: Tweaks
+Description: 建行生活屏蔽越狱检测,有根请使用CheckProxyByPass去除抓包检测，其他插件微信关注《小白技术社》获取
+Author: zxc
+Name: 建行生活屏蔽越狱-rootless
+
+Package: com.zxc.longlife-rootless
+Version: 0.0.6-5
+Architecture: iphoneos-arm64
+Maintainer: zxc
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.zxc.longlife-rootless_0.0.6-5_iphoneos-arm64.deb
+Size: 3092
+MD5sum: 11b3bab0768aa260729b9c8a1302aed3
+SHA1: 537e990df89913f571b9fc6044a887381c82233c
+SHA256: efec6b419665d28af1ea38ed391e676d725dcd195deac2401a1288d898d74d76
+Section: Tweaks
+Description: 建行生活屏蔽越狱检测,请他应用请使用`禁止代理检测`插件去除抓包检测，其他插件微信关注《小白技术社》获取
+Author: zxc
+Name: 建行生活屏蔽越狱-rootless
+
+Package: com.zxc.longlife-rootless
+Version: 0.0.7-1
+Architecture: iphoneos-arm64
+Maintainer: zxc
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.zxc.longlife-rootless_0.0.7-1_iphoneos-arm64.deb
+Size: 3092
+MD5sum: 713494a3eea74e691609db0b71c8a4e2
+SHA1: 9358a02d478b0fda9e7c032b74ef2159e30b1e2b
+SHA256: 0e90e90e693e2383c9ff9e0fef3007dd6a2e9fcc05e2fb337139f32e384370b1
+Section: Tweaks
+Description: 建行生活屏蔽越狱抓包检测,请他应用请使用`禁止代理检测`插件去除抓包检测，其他插件微信关注《小白技术社》获取
+Author: zxc
+Name: 建行生活屏蔽越狱和抓包-rootless
+
+Package: com.zxc.mixbypass
+Version: 0.0.1-5
+Architecture: iphoneos-arm
+Maintainer: zxc
+Installed-Size: 216
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.zxc.mixbypass_0.0.1-5_iphoneos-arm.deb
+Size: 4708
+MD5sum: f5ace4e94107c3e0d338a93c51aec848
+SHA1: 14de63ef30768c6911633c919fca47edb5b4b0dc
+SHA256: b1449ddabfa53277e4febbe9d5e05f72133e382209aa74d0818333cbfe7f2421
+Section: Tweaks
+Description: Mix滤镜大师Vip破解,其他插件微信关注《小白技术社》获取
+Author: zxc
+Name: Mix滤镜大师VipBypass
+
+Package: com.zxc.mixbypass
+Version: 0.0.2-1
+Architecture: iphoneos-arm
+Maintainer: zxc
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.zxc.mixbypass_0.0.2-1_iphoneos-arm.deb
+Size: 3482
+MD5sum: d46cb1c7e7521687224cfa91556fcf22
+SHA1: 2c0fdc2b354aa817d93bc32af0036db48683a0ad
+SHA256: cd944e61d3a81e4d99cafdc3c83f41608bf9547b653c92d1427e82d8bd94f413
+Section: Tweaks
+Description: Mix滤镜大师Vip破解,更多插件微信关注《小白技术社》获取
+Author: zxc
+Name: Mix滤镜大师VipBypass
+
+Package: com.zxc.mixbypass-rootless
+Version: 0.0.1-2
+Architecture: iphoneos-arm64
+Maintainer: zxc
+Installed-Size: 216
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.zxc.mixbypass-rootless_0.0.1-2_iphoneos-arm64.deb
+Size: 4746
+MD5sum: 056ce4852ed388bc83ed98f893e6361c
+SHA1: c03bdfc5d639ed94c0f2a3a67ea64c399ef9a0ee
+SHA256: b057de4f5ddea5f08ddbb6685b33a83b6b83e86ae9f9692196da0c03768951e0
+Section: Tweaks
+Description: Mix滤镜大师Vip破解,其他插件微信关注《小白技术社》获取
+Author: zxc
+Name: Mix滤镜大师VipBypass-rootless
+
+Package: com.zxc.mixbypass-rootless
+Version: 0.0.2-2
+Architecture: iphoneos-arm64
+Maintainer: zxc
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.zxc.mixbypass-rootless_0.0.2-2_iphoneos-arm64.deb
+Size: 3518
+MD5sum: 32b770df568d6fe3c97a2a24cd3fe332
+SHA1: 8f3afb470924b772ea902b591dc77651e3b25f27
+SHA256: db81b3cdfb0dfa529a0a4fe6223d5f26a7eaf23131cd085d156c51073de6fa5c
+Section: Tweaks
+Description: Mix滤镜大师Vip破解,更多插件微信关注《小白技术社》获取
+Author: zxc
+Name: Mix滤镜大师VipBypass-rootless
+
+Package: com.zxc.openapp
+Version: 0.0.1-4
+Architecture: iphoneos-arm64
+Maintainer: zxc
+Installed-Size: 164
+Filename: ./debs/com.zxc.openapp_rootless_0.0.1-4_iphoneos-arm64.deb
+Size: 4106
+MD5sum: ce347ce3b2780e9a0c5ca4a342608d3d
+SHA1: 9d57268f94527da9621639b75761e5ca048d0c80
+SHA256: 76ab1bad20786820e02f02cd54f699c481efcf9f74779b3628ebfe4f4f09eb15
+Section: System
+Description: An awesome tool of some sort!!
+Tag: role::hacker
+Author: zxc
+Name: openapp-rootless
+
+Package: com.zxc.openapp
+Version: 0.0.1-6
+Architecture: iphoneos-arm
+Maintainer: zxc
+Installed-Size: 148
+Filename: ./debs/com.zxc.openapp_0.0.1-6_iphoneos-arm.deb
+Size: 4078
+MD5sum: c51fc037805cc2b4b59ebd860be63ff3
+SHA1: 2320a505af14b4ff007d900e0ca5b8ed26e7a7a7
+SHA256: 241d3431706d69e6468a478b535a36cdeaddfc6816d45d25a145432cc4e31d37
+Section: System
+Description: An awesome tool of some sort!!
+Tag: role::hacker
+Author: zxc
+Name: openapp
+
+Package: com.zxc.simpleremotecontrol
+Version: 0.1.5
+Architecture: iphoneos-arm
+Maintainer: zxc
+Installed-Size: 4500
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.zxc.simpleremotecontrol_0.1.5_iphoneos-arm.deb
+Size: 1218932
+MD5sum: 91d9e05676b018d6963f5ebabb726b1b
+SHA1: d8d8dd79090bb3796745f9eeb2532d39aecf13d3
+SHA256: e487772da403b33d0aed11bc122ca6c9bb2afa7411ae2b26d6135fb4fa551ce0
+Section: Tweaks
+Description: 一个简单的远程控制手机插件,欢迎微信关注《小白技术社》(仅支持ios13+)
+ 使用方法 内网下 http://手机ip:58586 同时websocket使用58587端口，后续更新也在《小白技术社》通知，禁止某些辣鸡源和任何人重新打包和修改！！！
+ 更新日志：
+   0.1.5：
+    1.增加清晰度
+   0.1.4：
+    1.修复bug
+   0.1.3：
+    1.布局重新修改
+    2.增加远控开关和远控密码
+    3.远控开关未打开情况下打开远控请输入密码，请提前设置好密码，请勿泄露
+Author: zxc
+Name: iOS远控
+
+Package: com.zxc.simpleremotecontrol-rootless
+Version: 0.1.5
+Architecture: iphoneos-arm64
+Maintainer: zxc
+Installed-Size: 4452
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.zxc.simpleremotecontrol-rootless_0.1.5_iphoneos-arm64.deb
+Size: 1214288
+MD5sum: 6a26495efd27345686bc0f0735612816
+SHA1: aa0193b165813c338b83305aeaa9270e2965016c
+SHA256: d9c87cd5ce3b92e5b1b5c817587b34f7388e1c7e1ccc1659eb19443dd8d04614
+Section: Tweaks
+Description: 一个简单的远程控制手机插件,欢迎微信关注《小白技术社》(仅支持ios13+)
+ 使用方法 内网下 http://手机ip:58586 同时websocket使用58587端口，后续更新也在《小白技术社》通知，禁止某些辣鸡源和任何人重新打包和修改！！！
+ 更新日志：
+   0.1.5：
+    1.增加清晰度
+   0.1.4：
+    1.修复bug
+   0.1.3：
+    1.布局重新修改
+    2.增加远控开关和远控密码
+    3.远控开关未打开情况下打开远控请输入密码，请提前设置好密码，请勿泄露
+Author: zxc
+Name: iOS远控-rootless
+
+Package: com.zxc.wounicomgdvpnbyass
+Version: 0.0.3-6+debug
+Architecture: iphoneos-arm
+Maintainer: zxc
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: ./debs/com.zxc.wounicomgdvpnbyass_0.0.3-6+debug_iphoneos-arm.deb
+Size: 4096
+MD5sum: 1bd700a13604f580097d4e854f8dad8e
+SHA1: cc29e1c42552f83e2c384bb2cf08fa8a798c5d17
+SHA256: beb081a5481b4e9ac813ea08828a73c89fe42a512a9ac77555e78ce385eea84f
+Section: Tweaks
+Description: 屏蔽沃视频抓包检测,更多插件微信关注《小白技术社》获取
+Author: zxc
+Name: 屏蔽沃视频抓包
+
+Package: com.zxc.wounicomgdvpnbyass-rootless
+Version: 0.0.2-1
+Architecture: iphoneos-arm64
+Maintainer: zxc
+Installed-Size: 136
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.zxc.wounicomgdvpnbyass-rootless_0.0.2-1_iphoneos-arm64.deb
+Size: 2866
+MD5sum: 28066b9b268ba4f85a47b68e30eac2f9
+SHA1: 364fde0608adcb02ac0a67e6eb71dee5849b7bb2
+SHA256: d8b8a1fff3f158fe034e9c990949fe3f7c2496e2bb47fee86f8ed437b3fda325
+Section: Tweaks
+Description: 屏蔽沃视频抓包检测,更多插件微信关注《小白技术社》获取
+Author: zxc
+Name: 屏蔽沃视频抓包-rootless
+
+Package: com.zxc.xunmengpdd
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Maintainer: zxc
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.zxc.xunmengpdd_0.0.1-1_iphoneos-arm.deb
+Size: 3100
+MD5sum: ce37e02b47010154cbb6379902565ad3
+SHA1: b95a7a64dda2eb8a6c95b7fe9c4894e6cea63366
+SHA256: 02430e68cb0e7c54ba289e0a33906379b699464c074990959f0041e7a044fd9f
+Section: Tweaks
+Description: 协助抓拼多多的数据包,更多插件微信关注《小白技术社》获取
+Author: zxc
+Name: 拼多多bypass
+
+Package: com.zxc.xunmengpddbypass-rootless
+Version: 0.0.1-1
+Architecture: iphoneos-arm64
+Maintainer: zxc
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.zxc.xunmengpddbypass-rootless_0.0.1-1_iphoneos-arm64.deb
+Size: 3164
+MD5sum: 9db85a8b0a6796b7843e1239fef1d58f
+SHA1: 4bcd2d51d4423c5d0d70de5d5e2c286a4124a582
+SHA256: 8e6cbd8f7742b218dd394cafd1765deed03029b7dd52b370b1df27212da4546d
+Section: Tweaks
+Description: 协助抓拼多多的数据包,更多插件微信关注《小白技术社》获取
+Author: zxc
+Name: 拼多多bypass-rootless
+
+Package: me.chichou.webinspect-global
+Version: 0.4.0+rootful
+Architecture: iphoneos-arm
+Maintainer: codecolorist
+Installed-Size: 216
+Depends: mobilesubstrate
+Filename: ./debs/me.chichou.webinspect-global_0.4.0+rootful_iphoneos-arm.deb
+Size: 7038
+MD5sum: 5a2201413e711eb0e3f46c414109d10e
+SHA1: 4679984092ae95c6f631d1f323bf98a85852c1ed
+SHA256: 611264ddc71f5c00d7110640e61d281e15b1a10b993850c1db15db0b14a75b37
+Section: Tweaks
+Description: Enable webview remote inspect for every app
+Author: codecolorist
+Name: webinspect
+
+Package: me.chichou.webinspect-global
+Version: 0.4.0+rootless
+Architecture: iphoneos-arm64
+Maintainer: codecolorist
+Installed-Size: 216
+Depends: mobilesubstrate
+Filename: ./debs/me.chichou.webinspect-global_0.4.0+rootless_iphoneos-arm64.deb
+Size: 7116
+MD5sum: 0f2eb98a87d9b1bcc83e0648b211c9a6
+SHA1: 6214eaf3cd56765696a5fa6ed9789833f0d92e5d
+SHA256: de67cbaeb92b6f87cc13c05b6b385e6c412642488727fe610582d2e7e384c08d
+Section: Tweaks
+Description: Enable webview remote inspect for every app
+Author: codecolorist
+Name: webinspect
+
+Package: moe.misty.sslkillswitch3
+Version: 1.5.1+rootful
+Architecture: iphoneos-arm
+Maintainer: NyaMisty <misty@misty.moe>
+Installed-Size: 196
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.nablac0d3.sslkillswitch2
+Filename: ./debs/moe.misty.sslkillswitch3_1.5.1+rootful_iphoneos-arm.deb
+Size: 17144
+MD5sum: c3e6d496e188a8db6608c8e1468cd97d
+SHA1: 4c70b95a5128f43b7e7d0b329225f6f603ab30c0
+SHA256: c077c8606a09d04221c5cc1caa2c6f2ca8a490a47c8d338bed6daaf31e0b84ef
+Section: Tweaks
+Description: Blackbox tool to disable SSL certificate validation - including certificate pinning - within iOS and OS X Apps.
+Author: NyaMisty <misty@misty.moe>, Alban Diquet <nabla.c0d3@gmail.com>
+Name: SSL Kill Switch 3
+
+Package: moe.misty.sslkillswitch3
+Version: 1.5.1+roothide
+Architecture: iphoneos-arm64e
+Maintainer: NyaMisty <misty@misty.moe>
+Installed-Size: 196
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.nablac0d3.sslkillswitch2
+Filename: ./debs/moe.misty.sslkillswitch3_1.5.1+roothide_iphoneos-arm64e.deb
+Size: 17232
+MD5sum: 78e600fe6c3da64b517fefb866f93538
+SHA1: c4a7a6bdc01d6e5d03020d41a0fae38652c0e72d
+SHA256: c2bacb4d53a6761b5cd6eaf5c6e1abae259b36fcd75cc8abc268d00e39ddc1bf
+Section: Tweaks
+Description: Blackbox tool to disable SSL certificate validation - including certificate pinning - within iOS and OS X Apps.
+Author: NyaMisty <misty@misty.moe>, Alban Diquet <nabla.c0d3@gmail.com>
+Name: SSL Kill Switch 3
+
+Package: moe.misty.sslkillswitch3
+Version: 1.5.1+rootless
+Architecture: iphoneos-arm64
+Maintainer: NyaMisty <misty@misty.moe>
+Installed-Size: 196
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.nablac0d3.sslkillswitch2
+Filename: ./debs/moe.misty.sslkillswitch3_1.5.1+rootless_iphoneos-arm64.deb
+Size: 17234
+MD5sum: 9feb432133c0df263558b754a1e3e5f7
+SHA1: ae3a9bbce6222dc00af6abee3a4a854db7c512b2
+SHA256: 6a0deb464b54c88fb7c16b437806b02f8a1c053ef53df3dcca219ed18ec24036
+Section: Tweaks
+Description: Blackbox tool to disable SSL certificate validation - including certificate pinning - within iOS and OS X Apps.
+Author: NyaMisty <misty@misty.moe>, Alban Diquet <nabla.c0d3@gmail.com>
+Name: SSL Kill Switch 3
+

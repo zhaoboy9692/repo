@@ -1,0 +1,10 @@
+<repo>
+    <!--cydia插件打开最底下联系我的超链接-->
+    <footerlinks>
+        <link>
+            <name>点这里关注我微信公众号</name>
+            <url>http://zhaoxincheng.com/wp-content/uploads/2021/05/2021052909140282.jpg</url>
+            <iconclass>fa fa-wechat</iconclass>
+        </link>
+    </footerlinks>
+</repo>
